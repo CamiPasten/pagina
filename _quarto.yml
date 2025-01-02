@@ -3,7 +3,6 @@ project:
   output-dir: docs
 
 website:
-  title: "Camila Pastén"
   navbar:
     left:
       - href: index.qmd
@@ -23,8 +22,9 @@ website:
           - href: Material/TyE/index.qmd
             text: Tecnología y Empresas
 
+
 format:
   html:
     theme: cosmo
     css: css/styles.css
-    toc: true
+    toc: false
