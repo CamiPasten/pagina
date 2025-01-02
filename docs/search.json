@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "Material/FAN_II/index.html",
+    "href": "Material/FAN_II/index.html",
+    "title": "FAN II",
+    "section": "",
+    "text": "Temáticas\nEn esta sección encontrarás contenido relacionado con el curso de Estrategia.\n\nTema 1: Conceptos básicos\nTema 2: Ejercicios prácticos"
+  },
+  {
     "objectID": "Material/Estrategia/tema1.html",
     "href": "Material/Estrategia/tema1.html",
     "title": "Tema 1: Conceptos básicos",
@@ -30,9 +37,9 @@
   {
     "objectID": "Material/TyE/index.html",
     "href": "Material/TyE/index.html",
-    "title": "Camila Pastén",
+    "title": "Tecnología y Empresas",
     "section": "",
-    "text": "En esta sección encontrarás contenido relacionado con el curso de TyE."
+    "text": "Temáticas\nEn esta sección encontrarás contenido relacionado con el curso de TyE.\n\nTema 1: Conceptos básicos\nTema 2: Ejercicios prácticos"
   },
   {
     "objectID": "index.html",
@@ -70,6 +77,13 @@
     "text": "Capítulo 1: Equipos\nCapítulo 2: Diversidad"
   },
   {
+    "objectID": "Material/Progra/index.html",
+    "href": "Material/Progra/index.html",
+    "title": "Progra",
+    "section": "",
+    "text": "Temáticas\nEn esta sección encontrarás contenido relacionado con el curso de TyE.\n\nTema 1: Conceptos básicos\nTema 2: Ejercicios prácticos"
+  },
+  {
     "objectID": "Material/Conta_II/index.html",
     "href": "Material/Conta_II/index.html",
     "title": "Conta II",
@@ -86,8 +100,8 @@
   {
     "objectID": "Material/Estrategia/index.html",
     "href": "Material/Estrategia/index.html",
-    "title": "Camila Pastén",
+    "title": "Estrategia",
     "section": "",
-    "text": "Estrategia"
+    "text": "Temáticas\nEn esta sección encontrarás contenido relacionado con el curso de TyE.\n\nTema 1: Conceptos básicos\nTema 2: Ejercicios prácticos"
   }
 ]

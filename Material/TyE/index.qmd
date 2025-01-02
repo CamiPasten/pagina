@@ -1,3 +1,9 @@
+---
+title: "Tecnología y Empresas"
+---
+# Temáticas
+
 En esta sección encontrarás contenido relacionado con el curso de TyE.
 
-
+1. [Tema 1: Conceptos básicos](Tema1.qmd)
+2. [Tema 2: Ejercicios prácticos](Tema2.qmd)
