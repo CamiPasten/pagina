@@ -4,11 +4,11 @@
     "href": "Material/index.html",
     "title": "Material",
     "section": "",
-    "text": "Explora los diferentes ramos/materias que se ofrecen:\n\n\n\nPersona y Equipo"
+    "text": "Bienvenido a la sección de Material. Aquí encontrarás los recursos organizados por temas.\n\n\n\nPersona y Equipo"
   },
   {
-    "objectID": "Material/index.html#ramosmaterias",
-    "href": "Material/index.html#ramosmaterias",
+    "objectID": "Material/index.html#secciones",
+    "href": "Material/index.html#secciones",
     "title": "Material",
     "section": "",
     "text": "Persona y Equipo"
@@ -25,28 +25,14 @@
     "href": "index.html",
     "title": "Camila Pastén",
     "section": "",
-    "text": "¡Hola! Soy Camila Pastén, estudiante de Ingeniería Comercial apasionada por el análisis de datos y la estrategia empresarial.\n\n\n\nTeléfono: (56) 9 4922 9667\nCorreo: camipasten.2002@gmail.com"
+    "text": "¡Hola! Soy Camila Pastén, estudiante de Ingeniería Comercial apasionada por el análisis de datos y la estrategia empresarial.\n\n\n\nTeléfono: (56) 9 4922 9667\nCorreo: camipasten.2002@gmail.com\n\nVer Material"
   },
   {
     "objectID": "index.html#bienvenida",
     "href": "index.html#bienvenida",
     "title": "Camila Pastén",
     "section": "",
-    "text": "¡Hola! Soy Camila Pastén, estudiante de Ingeniería Comercial apasionada por el análisis de datos y la estrategia empresarial.\n\n\n\nTeléfono: (56) 9 4922 9667\nCorreo: camipasten.2002@gmail.com"
-  },
-  {
-    "objectID": "Persona_Equipo/index.html",
-    "href": "Persona_Equipo/index.html",
-    "title": "Persona y Equipo",
-    "section": "",
-    "text": "Esta sección aborda los temas más importantes relacionados con Persona y Equipo en las organizaciones. Explora los materiales divididos en capítulos para profundizar en cada tema.\n\n\n\nCapítulo 1: Equipos\nDescubre cómo los equipos contribuyen al éxito organizacional.\nCapítulo 2: Diversidad\nAprende sobre la importancia de la diversidad en las organizaciones."
-  },
-  {
-    "objectID": "Persona_Equipo/index.html#temáticas",
-    "href": "Persona_Equipo/index.html#temáticas",
-    "title": "Persona y Equipo",
-    "section": "",
-    "text": "Capítulo 1: Equipos\nDescubre cómo los equipos contribuyen al éxito organizacional.\nCapítulo 2: Diversidad\nAprende sobre la importancia de la diversidad en las organizaciones."
+    "text": "¡Hola! Soy Camila Pastén, estudiante de Ingeniería Comercial apasionada por el análisis de datos y la estrategia empresarial.\n\n\n\nTeléfono: (56) 9 4922 9667\nCorreo: camipasten.2002@gmail.com\n\nVer Material"
   },
   {
     "objectID": "Material/Persona_Equipo/Capitulo1.html",
@@ -54,5 +40,19 @@
     "title": "Capítulo 1: Equipos",
     "section": "",
     "text": "Capítulo 1: Equipos\nLos equipos son fundamentales para el éxito organizacional. Aquí aprenderás sobre…"
+  },
+  {
+    "objectID": "Material/Persona_Equipo/index.html",
+    "href": "Material/Persona_Equipo/index.html",
+    "title": "Persona y Equipo",
+    "section": "",
+    "text": "En esta sección encontrarás capítulos relacionados con equipos y diversidad.\n\n\n\nCapítulo 1: Equipos\nCapítulo 2: Diversidad"
+  },
+  {
+    "objectID": "Material/Persona_Equipo/index.html#capítulos",
+    "href": "Material/Persona_Equipo/index.html#capítulos",
+    "title": "Persona y Equipo",
+    "section": "",
+    "text": "Capítulo 1: Equipos\nCapítulo 2: Diversidad"
   }
 ]
