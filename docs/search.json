@@ -1,52 +1,31 @@
 [
   {
-    "objectID": "Material/Tecnologia_Empresas/index.html",
-    "href": "Material/Tecnologia_Empresas/index.html",
-    "title": "Camila Pastén",
-    "section": "",
-    "text": "En esta sección encontrarás contenido relacionado con el curso de TyE."
-  },
-  {
-    "objectID": "Material/Tecnologia_Empresas/index.html#temáticas",
-    "href": "Material/Tecnologia_Empresas/index.html#temáticas",
-    "title": "Camila Pastén",
-    "section": "Temáticas",
-    "text": "Temáticas\n\nTema 1: Conceptos básicos\nTema 2: Ejercicios prácticos"
-  },
-  {
     "objectID": "Material/index.html",
     "href": "Material/index.html",
     "title": "Material",
     "section": "",
-    "text": "Bienvenido a la sección de Material. Aquí encontrarás los recursos organizados por temas.\n\n\n\nPersona y Equipo"
+    "text": "Bienvenido a la sección de Material. Aquí encontrarás los recursos organizados por temas.\n\n\n\nContabilidad II\nEstrategias\nFundamentos Administrativos\nPersona y Equipo\nProgramación\nTecnología y Empresas"
   },
   {
     "objectID": "Material/index.html#secciones",
     "href": "Material/index.html#secciones",
     "title": "Material",
     "section": "",
-    "text": "Persona y Equipo"
+    "text": "Contabilidad II\nEstrategias\nFundamentos Administrativos\nPersona y Equipo\nProgramación\nTecnología y Empresas"
   },
   {
-    "objectID": "Material/Persona_Equipo/index.html",
-    "href": "Material/Persona_Equipo/index.html",
-    "title": "Persona y Equipo",
+    "objectID": "Material/PyE/Capitulo2.html",
+    "href": "Material/PyE/Capitulo2.html",
+    "title": "Capítulo 2: Diversidad",
     "section": "",
-    "text": "En esta sección encontrarás capítulos relacionados con equipos y diversidad.\n\n\n\nCapítulo 1: Equipos\nCapítulo 2: Diversidad"
+    "text": "Capítulo 2: Diversidad\nLa diversidad en los equipos fomenta la innovación y mejora la resolución de problemas. Este capítulo trata sobre…"
   },
   {
-    "objectID": "Material/Persona_Equipo/index.html#capítulos",
-    "href": "Material/Persona_Equipo/index.html#capítulos",
-    "title": "Persona y Equipo",
+    "objectID": "Material/TyE/index.html",
+    "href": "Material/TyE/index.html",
+    "title": "Camila Pastén",
     "section": "",
-    "text": "Capítulo 1: Equipos\nCapítulo 2: Diversidad"
-  },
-  {
-    "objectID": "Material/Persona_Equipo/Capitulo1.html",
-    "href": "Material/Persona_Equipo/Capitulo1.html",
-    "title": "Capítulo 1: Equipos",
-    "section": "",
-    "text": "Capítulo 1: Equipos\nLos equipos son fundamentales para el éxito organizacional. Aquí aprenderás sobre…"
+    "text": "En esta sección encontrarás contenido relacionado con el curso de TyE."
   },
   {
     "objectID": "index.html",
@@ -63,10 +42,24 @@
     "text": "¡Hola! Soy Camila Pastén, estudiante de Ingeniería Comercial apasionada por el análisis de datos y la estrategia empresarial.\n\n\n\nTeléfono: (56) 9 4922 9667\nCorreo: camipasten.2002@gmail.com\n\nVer Material"
   },
   {
-    "objectID": "Material/Persona_Equipo/Capitulo2.html",
-    "href": "Material/Persona_Equipo/Capitulo2.html",
-    "title": "Capítulo 2: Diversidad",
+    "objectID": "Material/PyE/Capitulo1.html",
+    "href": "Material/PyE/Capitulo1.html",
+    "title": "Capítulo 1: Equipos",
     "section": "",
-    "text": "Capítulo 2: Diversidad\nLa diversidad en los equipos fomenta la innovación y mejora la resolución de problemas. Este capítulo trata sobre…"
+    "text": "Capítulo 1: Equipos\nLos equipos son fundamentales para el éxito organizacional. Aquí aprenderás sobre…"
+  },
+  {
+    "objectID": "Material/PyE/index.html",
+    "href": "Material/PyE/index.html",
+    "title": "Persona y Equipo",
+    "section": "",
+    "text": "En esta sección encontrarás capítulos relacionados con equipos y diversidad.\n\n\n\nCapítulo 1: Equipos\nCapítulo 2: Diversidad"
+  },
+  {
+    "objectID": "Material/PyE/index.html#capítulos",
+    "href": "Material/PyE/index.html#capítulos",
+    "title": "Persona y Equipo",
+    "section": "",
+    "text": "Capítulo 1: Equipos\nCapítulo 2: Diversidad"
   }
 ]

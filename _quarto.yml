@@ -6,22 +6,22 @@ website:
   title: "Camila Pastén"
   navbar:
     left:
-      - text: Inicio
-        href: index.qmd
+      - href: index.qmd
+        text: Inicio
       - text: Material
         menu:
-          - text: Persona y Equipo
-            href: Material/Persona_Equipo/index.qmd
-          - text: Contabilidad II
-            href: Material/Contabilidad_II/index.qmd
-          - text: Estrategias
-            href: Material/Estrategias/index.qmd
-          - text: Fundamentos de Administración
-            href: Material/Fundamentos_Administracion/index.qmd
-          - text: Programación
-            href: Material/Programacion/index.qmd
-          - text: Tecnología y Empresas
-            href: Material/Tecnologia_Empresas/index.qmd
+          - href: Material/Conta_II/index.qmd
+            text: Contabilidad II
+          - href: Material/Estrategia/index.qmd
+            text: Estrategias
+          - href: Material/FAN_II/index.qmd
+            text: Fundamentos Administrativos
+          - href: Material/PyE/index.qmd
+            text: Persona y Equipo
+          - href: Material/Progra/index.qmd
+            text: Programación
+          - href: Material/TyE/index.qmd
+            text: Tecnología y Empresas
 
 format:
   html:

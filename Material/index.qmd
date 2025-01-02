@@ -1,9 +1,12 @@
----
-title: "Material"
----
-
 # Material
+
 Bienvenido a la sección de Material. Aquí encontrarás los recursos organizados por temas.
 
 ## Secciones
-- [Persona y Equipo](Persona_Equipo/index.html)
+
+- [Contabilidad II](Conta_II/index.qmd)
+- [Estrategias](Estrategia/index.qmd)
+- [Fundamentos Administrativos](FAN_II/index.qmd)
+- [Persona y Equipo](PyE/index.qmd)
+- [Programación](Progra/index.qmd)
+- [Tecnología y Empresas](TyE/index.qmd)
