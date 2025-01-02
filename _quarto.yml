@@ -8,12 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Inicio
-      - href: Persona_Equipos.qmd
-        text: Persona y Equipos
-      - href: Robbins_Judge_Cap1_Comportamiento_Organizacional.qmd
-        text: Capítulo 1: Comportamiento Organizacional
-      - href: Robbins_Judge_Cap2_Diversidad.qmd
-        text: Capítulo 2: Diversidad
+      - text: Materia
+        menu:
+          - href: Persona_Equipo/index.qmd
+            text: Persona y Equipo
 
 format:
   html:
