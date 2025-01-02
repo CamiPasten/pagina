@@ -1,0 +1,11 @@
+---
+title: "Persona y Equipo"
+---
+
+# Persona y Equipo
+En esta sección encontrarás capítulos relacionados con equipos y diversidad.
+
+## Capítulos
+1. [Capítulo 1: Equipos](Capitulo1.html)
+2. [Capítulo 2: Diversidad](Capitulo2.html)
+

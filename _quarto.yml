@@ -8,10 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Inicio
-      - text: Materia
-        menu:
-          - href: Persona_Equipo/index.qmd
-            text: Persona y Equipo
+      - href: Material/index.qmd
+        text: Material
 
 format:
   html:

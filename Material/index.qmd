@@ -3,9 +3,7 @@ title: "Material"
 ---
 
 # Material
+Bienvenido a la sección de Material. Aquí encontrarás los recursos organizados por temas.
 
-Explora los diferentes ramos/materias que se ofrecen:
-
-## Ramos/Materias
-
+## Secciones
 - [Persona y Equipo](Persona_Equipo/index.html)
