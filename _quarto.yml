@@ -8,11 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Inicio
-      - href: Material/index.qmd
-        text: Material
+      - text: Material
+        menu:
+          - href: Material/Persona_Equipo/index.qmd
+            text: Persona y Equipo
 
 format:
   html:
     theme: cosmo
-    css: css/styles.css
     toc: true
