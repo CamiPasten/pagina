@@ -2,15 +2,15 @@
 title: "Camila Pastén"
 ---
 
-::: {style="display: flex; align-items: center; gap: 50px;"}
+::: {style="display: flex; align-items: center; gap: 30px;"}
 
-<img src="images/IMG_8941.JPG" alt="Foto de Camila Pastén" style="width:300px; height:auto;">
+<img src="images/IMG_8941.JPG" alt="Foto de Camila Pastén" style="width:200px; height:auto;">
 
-<div style="font-size: 1.8em; line-height: 1.6;">
-  <h1 style="font-size: 3em; margin: 0;">Bienvenida</h1>
+<div style="font-size: 1.2em; line-height: 1.4;">
+  <h1 style="font-size: 2em; margin: 0;">Bienvenida</h1>
   <p>¡Hola! Soy Camila Pastén, estudiante de Ingeniería Comercial apasionada por el análisis de datos y la estrategia empresarial.</p>
 
-  <h2 style="font-size: 2.2em; margin-top: 20px;">Contacto</h2>
+  <h2 style="font-size: 1.5em; margin-top: 20px;">Contacto</h2>
   <ul>
     <li><strong>Teléfono:</strong> (56) 9 4922 9667</li>
     <li><strong>Correo:</strong> <a href="mailto:camipasten.2002@gmail.com">camipasten.2002@gmail.com</a></li>
