@@ -1,0 +1,8 @@
+---
+title: "Capítulo 1: ¿Que es el comportamiento organizacional?"
+---
+
+Material del capitulo 1 del libro Robbins & Judge 
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capitulo](resumen.qmd)
