@@ -4,7 +4,7 @@ title: "Camila Pastén"
 
 ::: {style="display: flex; align-items: center; gap: 40px; font-size: 1.5em;"}
 
-<img src="images/IMG_8941.JPG" alt="Foto de Camila Pastén" style="width:300px; height:auto;"">
+<img src="images/IMG_8941.JPG" alt="Foto de Camila Pastén" style="width:300px; height:auto;">
 
 <div>
   <h1 style="font-size: 2.5em;">Bienvenida</h1>
