@@ -1,0 +1,6 @@
+---
+title: "Tema 2"
+---
+# Tema 1: Conceptos básicos
+
+Este es el contenido del Tema 1.
