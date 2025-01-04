@@ -2,7 +2,7 @@
 title: "Camila Pastén"
 about:
   template: trestles
-  image: /images/Foto_Mia.JPG
+  image: /images/FotoP.jpg
   links:
     - icon: Linkedin
       text: Linkedin
@@ -22,4 +22,4 @@ Actualmente, me desempeño como ayudante de docencia en múltiples asignaturas, 
 ### Contact Information
 
 Correo: [camila.pasten@mail.udp.cl](mailto:camila.pasten@mail.udp.cl)\
-Telefono +569 4922 9667
+Telefono: +569 4922 9667
