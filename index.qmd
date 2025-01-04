@@ -2,11 +2,11 @@
 title: "Camila Pastén"
 about:
   template: trestles
-  image: /images/IMG_8941 2.JPG
+  image: /images/Foto_Mia.JPG
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/
+    - icon: Linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/camila-pastén-barros/
     - icon: github
       text: Github
       href: https://github.com/CamiPasten/
