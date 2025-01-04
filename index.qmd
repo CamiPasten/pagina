@@ -2,53 +2,33 @@
 title: "Camila Pastén"
 ---
 
-::: {style="display: flex; align-items: center; gap: 40px; font-size: 1.2em; line-height: 1.5;"}
+::: {style="display: flex; align-items: flex-start; gap: 40px; font-size: 1.2em; line-height: 1.5;"}
 
-<img src="images/IMG_8941.JPG" alt="Foto de Camila Pastén" style="width:300px; height:auto;">
+<img src="images/IMG_8941.JPG" alt="Foto de Camila Pastén" style="width:250px; height:auto; border-radius: 10px;">
 
 <div>
-  <h1 style="font-size: 2.5em; margin-bottom: 10px;">Bienvenida Profesional</h1>
+  <h1 style="margin-bottom: 10px;">Camila Pastén</h1>
+
   <p>
-    Soy estudiante de cuarto año de Ingeniería Comercial en la Universidad Diego Portales, con un fuerte enfoque en estrategia empresarial, comportamiento organizacional, microeconomía, y programación. Durante mi trayectoria académica, he desarrollado habilidades tanto en el ámbito técnico como en el humano, logrando equilibrar excelencia académica con experiencia práctica en roles de liderazgo y apoyo docente.
+    Soy estudiante de cuarto año de Ingeniería Comercial en la Universidad Diego Portales, apasionada por el análisis de datos, la estrategia empresarial y el comportamiento organizacional. Mi formación académica y experiencia práctica me han permitido desarrollar habilidades sólidas tanto técnicas como interpersonales, destacándome en entornos colaborativos y orientados a resultados.
   </p>
+
   <p>
-    He trabajado como ayudante de docencia durante los últimos <strong>tres años</strong>, contribuyendo al desarrollo y aprendizaje de estudiantes en una amplia gama de asignaturas, incluyendo:
+    Actualmente, me desempeño como ayudante de docencia en múltiples asignaturas, incluyendo Microeconomía, Estrategia, Contabilidad y Programación. Durante los últimos tres años, he adquirido experiencia en la creación de materiales educativos, evaluación de estudiantes, y la enseñanza de conceptos clave de manera clara y accesible.
   </p>
+
+  <h2 style="font-size: 1.5em; margin-top: 20px;">Información de Contacto</h2>
   <ul>
-    <li><strong>Tecnología y Empresa:</strong> Enfoque en la integración de tecnologías en el entorno organizacional.</li>
-    <li><strong>Persona y Equipos:</strong> Facilitación de temas relacionados con liderazgo, trabajo en equipo y dinámicas organizacionales.</li>
-    <li><strong>Contabilidad I y II:</strong> Apoyo en la comprensión de principios contables y su aplicación práctica.</li>
-    <li><strong>Estrategia:</strong> Creación y análisis de casos empresariales enfocados en la planificación estratégica.</li>
-    <li><strong>Fundamentos de Administración y Negocios II:</strong> Refuerzo de conceptos administrativos y su conexión con el mundo empresarial.</li>
-    <li><strong>Microeconomía I y II:</strong> Explicación de teorías económicas y resolución de problemas prácticos.</li>
-    <li><strong>Programación:</strong> Desarrollo de habilidades básicas y avanzadas en lenguajes aplicados al análisis de datos.</li>
+    <li><strong>Correo:</strong> <a href="mailto:camipasten.2002@gmail.com">camipasten.2002@gmail.com</a></li>
+    <li><strong>Teléfono:</strong> (56) 9 4922 9667</li>
+    <li><strong>Universidad:</strong> <a href="https://www.udp.cl" target="_blank">Universidad Diego Portales</a></li>
   </ul>
-  <p>
-    Dentro de mi experiencia como ayudante, he llevado a cabo tareas como:
-  </p>
-  <ul>
-    <li>Impartición de clases y talleres de refuerzo.</li>
-    <li>Creación y corrección de pruebas, trabajos y ejercicios prácticos.</li>
-    <li>Asesoramiento cercano y personalizado a estudiantes con dificultades académicas.</li>
-    <li>Organización de sesiones grupales para reforzar conceptos clave.</li>
-    <li>Desarrollo de materiales educativos complementarios, como guías y presentaciones.</li>
-  </ul>
-  <p><strong>Habilidades Técnicas:</strong></p>
-  <ul>
-    <li>Dominio de herramientas tecnológicas: Microsoft Office (nivel avanzado), RStudio, Python (nivel intermedio) y Power BI.</li>
-    <li>Análisis de datos y creación de visualizaciones claras y precisas para la toma de decisiones.</li>
-    <li>Gestión de proyectos educativos y diseño de estrategias pedagógicas efectivas.</li>
-  </ul>
-  <p><strong>Habilidades Blandas:</strong></p>
-  <ul>
-    <li>Habilidades de liderazgo y comunicación efectiva en entornos académicos y profesionales.</li>
-    <li>Capacidad para trabajar en equipo, adaptándome a dinámicas colaborativas diversas.</li>
-    <li>Proactividad y enfoque en la resolución de problemas en situaciones complejas.</li>
-    <li>Empatía y enfoque en el desarrollo personal y profesional de los estudiantes.</li>
-  </ul>
-  <p>
-    Mi visión profesional es contribuir al desarrollo de soluciones innovadoras y sostenibles en entornos dinámicos, mientras sigo creciendo y adquiriendo nuevas habilidades en el ámbito empresarial y académico.
-  </p>
+
+  <h2 style="font-size: 1.5em; margin-top: 20px;">Enlaces</h2>
+  <div style="display: flex; gap: 10px;">
+    <a href="https://twitter.com" target="_blank" style="text-decoration: none; border: 1px solid #ccc; padding: 5px 10px; border-radius: 5px;">Twitter</a>
+    <a href="https://github.com" target="_blank" style="text-decoration: none; border: 1px solid #ccc; padding: 5px 10px; border-radius: 5px;">GitHub</a>
+  </div>
 </div>
 
 :::
