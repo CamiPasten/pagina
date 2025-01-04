@@ -2,7 +2,7 @@
 title: "Camila Pastén"
 about:
   template: trestles
-  image: images/foto.jpg
+  image: images/foto_mia.jpg
   links:
     - icon: linkedin
       text: Linkedin
