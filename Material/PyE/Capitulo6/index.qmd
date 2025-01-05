@@ -1,0 +1,8 @@
+---
+title: "Capítulo 6: La percepción y la toma de decisiones individual"
+---
+
+# Material del Capítulo 6 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)

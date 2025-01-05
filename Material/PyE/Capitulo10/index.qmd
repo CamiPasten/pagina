@@ -1,0 +1,10 @@
+---
+title: "Capítulo 10: Los Equipos de Trabajo"
+---
+
+# Material del Capítulo 10 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)
+
+---

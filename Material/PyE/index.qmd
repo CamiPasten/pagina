@@ -3,17 +3,32 @@ title: "Persona y Equipo"
 ---
 
 # Persona y Equipo
-En esta sección encontrarás capítulos relacionados con equipos y diversidad.
 
-## Capítulos
-1. [Capítulo 1: Equipos](Capitulo1.html)
-2. [Capítulo 2: Diversidad](Capitulo2.html)
+El curso "Personas y Equipos" profundiza en el comportamiento organizacional, abordando teorías, 
+modelos y evidencia empírica sobre las dinámicas humanas en el trabajo. Este aprendizaje es esencial 
+para futuros gerentes, quienes tendrán la misión de liderar equipos y alcanzar metas organizacionales 
+de manera eficiente y sostenible, cuidando el bienestar de las personas y los equipos.
 
+Basado en el texto de Robbins & Judge y en actividades prácticas, el curso desarrolla competencias para 
+analizar, resolver problemas y liderar en contextos laborales. Aquí encontrarás un resumen organizado 
+de los temas clave, junto con preguntas, resúmenes y recursos para facilitar tu aprendizaje.
 
-
-Personas y Equipos
-Introducción al Curso
-
-El curso "Personas y Equipos" profundiza en el comportamiento organizacional, abordando teorías, modelos y evidencia empírica sobre las dinámicas humanas en el trabajo. Este aprendizaje es esencial para futuros gerentes, quienes tendrán la misión de liderar equipos y alcanzar metas organizacionales de manera eficiente y sostenible, cuidando el bienestar de las personas y los equipos.
-
-Basado en el texto de Robbins & Judge y en actividades prácticas, el curso desarrolla competencias para analizar, resolver problemas y liderar en contextos laborales. Aquí encontrarás un resumen organizado de los temas clave, junto con preguntas, resúmenes y recursos para facilitar tu aprendizaje.
+## Material
+1. [Capítulo 1: ¿Que es el Comportamiento Organizacional?](Capitulo1/index.qmd)
+2. [Capítulo 2: Diversidad en las organizaciones](Capitulo2/index.qmd)
+3. [Capítulo 3: Las Actitudes y la Satisfacción Laboral](Capitulo3/index.qmd)
+4. [Capítulo 4: Las Emociones y Los Estados de Ánimo](Capitulo4/index.qmd)
+5. [Capítulo 5: La Personalidad y los Valores](Capitulo5/index.qmd)
+6. [Capítulo 6: La percepción y la toma de decisiones individual](Capitulo6/index.qmd)
+7. [Capítulo 7: Conceptos de Motivación](Capitulo7/index.qmd)
+8. [Capítulo 8: Motivación: De los conceptos a las aplicaciones](Capitulo8/index.qmd)
+9. [Capítulo 9: Fundamentos del comportamiento de los grupos](Capitulo9/index.qmd)
+10. [Capítulo 10: Los Equipos de Trabajo](Capitulo10/index.qmd)
+11. [Capítulo 11: Comunicación](Capitulo11/index.qmd)
+12. [Capítulo 12: Liderazgo](Capitulo12/index.qmd)
+13. [Capítulo 13: Poder y política](Capitulo13/index.qmd)
+14. [Capítulo 14: Conflicto y Negociación](Capitulo14/index.qmd)
+15. [Capítulo 15: Fundamentos de la estructura organizacional](Capitulo15/index.qmd)
+16. [Capítulo 16: Cultura organizacional](Capitulo16/index.qmd)
+17. [Capítulo 17: Políticas y prácticas de recursos humanos](Capitulo17/index.qmd)
+18. [Capítulo 18: FCambio organizacional y manejo del estrés](Capitulo18/index.qmd)

@@ -1,0 +1,8 @@
+---
+title: "Capítulo 7: Conceptos de Motivación"
+---
+
+# Material del Capítulo 7 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)

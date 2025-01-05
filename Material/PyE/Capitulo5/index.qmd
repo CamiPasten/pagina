@@ -1,0 +1,8 @@
+---
+title: "Capítulo 5: La Personalidad y los Valores"
+---
+
+# Material del Capítulo 5 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)

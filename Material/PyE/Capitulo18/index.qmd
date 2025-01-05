@@ -1,0 +1,8 @@
+---
+title: "Capítulo 18: Cambio organizacional y manejo del estrés"
+---
+
+# Material del Capítulo 18 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)

@@ -1,0 +1,8 @@
+---
+title: "Capítulo 16: Cultura organizacional"
+---
+
+# Material del Capítulo 16 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)
