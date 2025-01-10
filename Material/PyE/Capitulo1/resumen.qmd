@@ -10,45 +10,6 @@ format:
     css: "styles.css" # Usar archivo de estilos CSS personalizado
 ---
 
-# Índice
-
-- [1. ¿Qué es el Comportamiento Organizacional?](#que-es-el-comportamiento-organizacional)
-- [2. Importancia de las Habilidades Interpersonales](#importancia-de-las-habilidades-interpersonales)
-- [3. Rol del Gerente y Actividades Gerenciales](#rol-del-gerente-y-actividades-gerenciales)
-- [4. Enfoque Sistemático y Evidencia en el CO](#enfoque-sistematico-y-evidencia-en-el-co)
-- [5. Disciplinas que Contribuyen al CO](#disciplinas-que-contribuyen-al-co)
-- [6. Principios Fundamentales del CO](#principios-fundamentales-del-co)
-- [7. Desafíos y Oportunidades del CO](#desafios-y-oportunidades-del-co)
-
-## 1. ¿Qué es el Comportamiento Organizacional?
-<a id="que-es-el-comportamiento-organizacional"></a>
-Contenido de la sección que describirá qué es el comportamiento organizacional.
-
-## 2. Importancia de las Habilidades Interpersonales
-<a id="importancia-de-las-habilidades-interpersonales"></a>
-Contenido de la sección sobre la importancia de las habilidades interpersonales.
-
-## 3. Rol del Gerente y Actividades Gerenciales
-<a id="rol-del-gerente-y-actividades-gerenciales"></a>
-Contenido sobre el rol y actividades de los gerentes.
-
-## 4. Enfoque Sistemático y Evidencia en el CO
-<a id="enfoque-sistematico-y-evidencia-en-el-co"></a>
-Contenido sobre el enfoque sistemático en el estudio del CO.
-
-## 5. Disciplinas que Contribuyen al CO
-<a id="disciplinas-que-contribuyen-al-co"></a>
-Contenido sobre las disciplinas que alimentan el campo del CO.
-
-## 6. Principios Fundamentales del CO
-<a id="principios-fundamentales-del-co"></a>
-Contenido que habla sobre los principios fundamentales del CO.
-
-## 7. Desafíos y Oportunidades del CO
-<a id="desafios-y-oportunidades-del-co"></a>
-Contenido sobre los desafíos y oportunidades que enfrenta el CO.
-
-
 **1. ¿Qué es el Comportamiento Organizacional (CO)?**
 El comportamiento organizacional (CO) es una disciplina que estudia el efecto que los individuos, los grupos y las estructuras tienen sobre el comportamiento dentro de las organizaciones, con el objetivo de aplicar este conocimiento para mejorar su eficacia. Este campo aborda cómo las personas interactúan entre sí y con su entorno laboral, explorando factores clave como la motivación, la comunicación, la cultura y el liderazgo.
 
