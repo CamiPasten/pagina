@@ -1,1 +1,91 @@
-/* css styles */
+/* General: Ajustar márgenes y fondo */
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.8;
+    background-color: #f5f5f5;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Contenedor principal: reducir márgenes */
+  .quarto-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Encabezados */
+  h1, h2, h3 {
+    color: #4caf50;
+    margin-top: 20px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+  }
+  
+  p {
+    margin: 10px 0;
+  }
+  
+  /* Tabla de Contenidos (TOC) */
+  .quarto-toc-right {
+    width: 250px;
+    background-color: #ffffff;
+    border-left: 2px solid #cccccc;
+    padding: 15px;
+    border-radius: 5px;
+    position: fixed;
+    top: 80px;
+    right: 20px;
+    max-height: calc(100vh - 100px);
+    overflow-y: auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .quarto-toc-right a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .quarto-toc-right a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+  }
+  
+  /* Ajustar la barra de navegación */
+  .quarto-navbar {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .quarto-navbar a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .quarto-navbar a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Notas (Tips, Warnings, etc.) */
+  .quarto-callout-tip {
+    background-color: #e8f5e9;
+    border-left: 5px solid #4caf50;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 5px;
+  }
+  
+  /* Links generales */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+  }  
+  
+  

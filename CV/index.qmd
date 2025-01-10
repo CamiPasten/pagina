@@ -1,52 +1,75 @@
 ---
-title: "Camila Pastén"
+title: "Camila Pastén - Perfil Profesional"
 ---
 
-::: {style="display: flex; align-items: left; gap: 40px; font-size: 1.2em; line-height: 1.5;"}
+## Perfil Profesional
 
-<div>
-  <h1 style="font-size: 2.5em; margin-bottom: 10px;">Perfil Profesional</h1>
-  <p>
-    Soy estudiante de quinto año de Ingeniería Comercial en la Universidad Diego Portales, con un fuerte enfoque en estrategia empresarial, comportamiento organizacional, microeconomía, y programación. Durante mi trayectoria académica, he desarrollado habilidades tanto en el ámbito técnico como en el humano, logrando equilibrar excelencia académica con experiencia práctica en roles de liderazgo y apoyo docente.
-  </p>
-  <p>
-    He trabajado como ayudante de docencia durante los últimos <strong>tres años</strong>, contribuyendo al desarrollo y aprendizaje de estudiantes en una amplia gama de asignaturas, incluyendo:
-  </p>
-  <ul>
-    <li><strong>Tecnología y Empresa:</strong> Enfoque en la integración de tecnologías en el entorno organizacional.</li>
-    <li><strong>Persona y Equipos:</strong> Facilitación de temas relacionados con liderazgo, trabajo en equipo y dinámicas organizacionales.</li>
-    <li><strong>Contabilidad I y II:</strong> Apoyo en la comprensión de principios contables y su aplicación práctica.</li>
-    <li><strong>Estrategia:</strong> Creación y análisis de casos empresariales enfocados en la planificación estratégica.</li>
-    <li><strong>Fundamentos de Administración y Negocios II:</strong> Refuerzo de conceptos administrativos y su conexión con el mundo empresarial.</li>
-    <li><strong>Microeconomía I y II:</strong> Explicación de teorías económicas y resolución de problemas prácticos.</li>
-    <li><strong>Programación:</strong> Desarrollo de habilidades básicas y avanzadas en lenguajes aplicados al análisis de datos.</li>
-  </ul>
-  <p>
-    Dentro de mi experiencia como ayudante, he llevado a cabo tareas como:
-  </p>
-  <ul>
-    <li>Impartición de clases y talleres de refuerzo.</li>
-    <li>Creación y corrección de pruebas, trabajos y ejercicios prácticos.</li>
-    <li>Asesoramiento cercano y personalizado a estudiantes con dificultades académicas.</li>
-    <li>Organización de sesiones grupales para reforzar conceptos clave.</li>
-    <li>Desarrollo de materiales educativos complementarios, como guías y presentaciones.</li>
-  </ul>
-  <p><strong>Habilidades Técnicas:</strong></p>
-  <ul>
-    <li>Dominio de herramientas tecnológicas: Microsoft Office (nivel avanzado), RStudio, Python (nivel intermedio) y Power BI.</li>
-    <li>Análisis de datos y creación de visualizaciones claras y precisas para la toma de decisiones.</li>
-    <li>Gestión de proyectos educativos y diseño de estrategias pedagógicas efectivas.</li>
-  </ul>
-  <p><strong>Habilidades Blandas:</strong></p>
-  <ul>
-    <li>Habilidades de liderazgo y comunicación efectiva en entornos académicos y profesionales.</li>
-    <li>Capacidad para trabajar en equipo, adaptándome a dinámicas colaborativas diversas.</li>
-    <li>Proactividad y enfoque en la resolución de problemas en situaciones complejas.</li>
-    <li>Empatía y enfoque en el desarrollo personal y profesional de los estudiantes.</li>
-  </ul>
-  <p>
-    Mi visión profesional es contribuir al desarrollo de soluciones innovadoras y sostenibles en entornos dinámicos, mientras sigo creciendo y adquiriendo nuevas habilidades en el ámbito empresarial y académico.
-  </p>
-</div>
+Estudiante de último año de Ingeniería Comercial con mención en Economía en la Universidad Diego Portales, actualmente cursando un Magíster en Finanzas. Apasionada por los negocios y la economía aplicada, con una sólida formación en estrategia, microeconomía, finanzas y comportamiento organizacional. Cuento con experiencia en análisis de datos, resolución de problemas y trabajo en equipo, complementadas por habilidades técnicas en herramientas analíticas. Busco oportunidades en entornos profesionales desafiantes donde pueda contribuir al desarrollo de soluciones innovadoras.
 
-:::
+## Educación
+
+### Ingeniería Comercial, Mención Economía
+**Universidad Diego Portales** | Santiago, Chile  
+*2019 – 2025*
+
+### Magíster en Finanzas
+**Universidad Diego Portales** | Santiago, Chile  
+*En curso*
+
+### Escuela de Verano en Economía
+**Instituto Milenio MIPP – Universidad de Chile** | Santiago, Chile  
+*Enero 2025*  
+Participación con beca completa en un programa de alto nivel dirigido a estudiantes avanzados de economía.
+
+**Cursos especializados:**
+- *Trade and the Environment* (Evangelina Dardati)
+- *Financial Contracting* (Nicolás Inostroza)
+- *Contests: Teoría y Evidencia Empírica* (Jorge Lemus)
+
+## Experiencia Académica
+
+### Ayudante de Docencia
+**Universidad Diego Portales** | Santiago, Chile  
+*2023 – Actualidad*  
+- Apoyo en la planificación y ejecución de clases en materias de economía.  
+- Orientación a estudiantes en la comprensión de conceptos clave y resolución de dudas.  
+- Desarrollo de materiales educativos y facilitación de sesiones grupales.  
+- Mejora de habilidades en comunicación efectiva y presentación de contenidos.
+
+## Participación Estudiantil y Proyectos Universitarios
+
+### CADEMI Emprendimiento
+**Universidad Diego Portales** | Santiago, Chile  
+- Colaboración en proyectos enfocados en la asesoría a emprendedores, brindando orientación directa y apoyo estratégico a pequeñas empresas y startups.  
+- Participación activa en la resolución de problemas empresariales en seis áreas diferentes, incluyendo finanzas, marketing y estrategia organizacional.
+
+### CADEMI Labs
+**Universidad Diego Portales** | Santiago, Chile  
+- Desarrollo de un artículo titulado "¿Te gustaría ser científico de datos? La profesión más sexy del siglo XXI", explorando el perfil profesional, las habilidades clave y la demanda laboral del Data Scientist.  
+- Análisis de insights sobre el mercado laboral de analistas y científicos de datos en Chile, enfatizando habilidades como Python, SQL y Power BI.  
+- Contribución en la divulgación de conocimiento técnico y análisis de datos aplicado a la toma de decisiones estratégicas.
+
+## Monitora y Mentora en Programas Académicos
+- **Sustainable Business Camp 2024:** Asistencia en la resolución de desafíos empresariales y apoyo a estudiantes en la creación de presentaciones.  
+- **BootCamp Interescolar 2024:** Orientación y logística para estudiantes de educación media.
+
+## Actividades de Difusión Universitaria
+- Apoyo en el stand de la Universidad Diego Portales durante el evento Emprende tu Mente (ETM), promoviendo el programa de Ingeniería Comercial y asesorando a futuros postulantes.  
+- Colaboración en actividades de difusión universitaria a través del programa PLEIN, facilitando información y consultas a estudiantes interesados.
+
+## Habilidades y Competencias
+
+### Habilidades Blandas:
+- Trabajo en equipo y liderazgo en entornos colaborativos.  
+- Resolución creativa de problemas y toma de decisiones informadas.  
+- Adaptabilidad a nuevos desafíos y aprendizaje rápido.
+
+### Habilidades Técnicas:
+- **Análisis de datos y visualización:**
+  - Microsoft Office (Word, Excel): Nivel avanzado.  
+  - Power BI: Creación de reportes interactivos.
+
+- **Programación y herramientas tecnológicas:**
+  - RStudio, Python: Nivel básico-intermedio.  
+  - GitHub y Overleaf (LaTeX): Nivel básico-intermedio.
+
