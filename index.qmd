@@ -24,9 +24,6 @@ Actualmente, me desempeño como ayudante de docencia en múltiples asignaturas, 
 y Programación. Durante los últimos tres años, he adquirido experiencia en la creación de materiales 
 educativos, evaluación de estudiantes, y la enseñanza de conceptos clave de manera clara y accesible.
 
----
-
-### Contact Information
+---- 
 
 Correo: [camila.pasten@mail.udp.cl](mailto:camila.pasten@mail.udp.cl)\
-Telefono: +569 4922 9667

@@ -2,36 +2,36 @@
 body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.8;
-    background-color: #f5f5f5;
-    color: #333333;
+    background-color: #f5f5f5; /* Gris claro */
+    color: #333333; /* Gris oscuro */
     margin: 0;
     padding: 0;
-  }
+}
   
-  /* Contenedor principal: reducir márgenes */
-  .quarto-container {
+/* Contenedor principal: reducir márgenes */
+.quarto-container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-  }
+}
   
-  /* Encabezados */
-  h1, h2, h3 {
-    color: #4caf50;
+/* Encabezados */
+h1, h2, h3 {
+    color: #1e3a5f; /* Azul oscuro */
     margin-top: 20px;
-    border-bottom: 2px solid #ddd;
+    border-bottom: 2px solid #b0c4de; /* Celeste */
     padding-bottom: 5px;
-  }
+}
   
-  p {
+p {
     margin: 10px 0;
-  }
+}
   
-  /* Tabla de Contenidos (TOC) */
-  .quarto-toc-right {
+/* Tabla de Contenidos (TOC) */
+.quarto-toc-right {
     width: 250px;
-    background-color: #ffffff;
-    border-left: 2px solid #cccccc;
+    background-color: #ffffff; /* Blanco */
+    border-left: 2px solid #dcdcdc; /* Gris claro */
     padding: 15px;
     border-radius: 5px;
     position: fixed;
@@ -40,52 +40,126 @@ body {
     max-height: calc(100vh - 100px);
     overflow-y: auto;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-  }
+}
   
-  .quarto-toc-right a {
-    color: #007bff;
+.quarto-toc-right a {
+    color: #1e3a5f; /* Azul oscuro */
     text-decoration: none;
     font-size: 14px;
-  }
+}
   
-  .quarto-toc-right a:hover {
+.quarto-toc-right a:hover {
     text-decoration: underline;
-    color: #0056b3;
-  }
+    color: #4b8b9b; /* Celeste oscuro */
+}
   
-  /* Ajustar la barra de navegación */
-  .quarto-navbar {
-    background-color: #4caf50;
+/* Ajustar la barra de navegación */
+.quarto-navbar {
+    background-color: #1e3a5f; /* Azul oscuro */
     color: white;
-  }
-  
-  .quarto-navbar a {
+    padding: 10px 20px; /* Agregar relleno */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Asegura que la barra esté por encima de otros elementos */
+}
+
+/* Estilos adicionales para el contenido debajo del encabezado */
+body {
+    padding-top: 60px; /* Ajuste para evitar que el contenido quede oculto debajo del encabezado */
+}
+
+.quarto-navbar a {
     color: white;
     text-decoration: none;
-  }
+}
   
-  .quarto-navbar a:hover {
+.quarto-navbar a:hover {
     text-decoration: underline;
-  }
-  
-  /* Notas (Tips, Warnings, etc.) */
-  .quarto-callout-tip {
-    background-color: #e8f5e9;
-    border-left: 5px solid #4caf50;
+}
+
+/* Notas (Tips, Warnings, etc.) */
+.quarto-callout-tip {
+    background-color: #e0f7fa; /* Celeste muy suave */
+    border-left: 5px solid #3b9acc; /* Celeste */
     padding: 15px;
     margin: 15px 0;
     border-radius: 5px;
-  }
-  
-  /* Links generales */
-  a {
-    color: #007bff;
+}
+
+/* Links generales */
+a {
+    color: #1e3a5f; /* Azul oscuro */
     text-decoration: none;
+}
+  
+a:hover {
+    text-decoration: underline;
+    color: #4b8b9b; /* Celeste oscuro */
+}
+/* Tabla de Contenidos personalizada al lado izquierdo */
+.custom-toc {
+    position: fixed;
+    top: 80px;  /* Ajusta según sea necesario */
+    left: 20px;
+    width: 250px;
+    background-color: #ffffff; /* Blanco */
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    max-height: calc(100vh - 100px);
+    overflow-y: auto;
+    border: 2px solid #dcdcdc; /* Gris claro */
+}
+
+.custom-toc ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.custom-toc li {
+    margin: 10px 0;
+}
+
+.custom-toc a {
+    color: #1e3a5f; /* Azul oscuro */
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.custom-toc a:hover {
+    text-decoration: underline;
+    color: #4b8b9b; /* Celeste oscuro */
+}
+/* Personalización del índice a la izquierda */
+#TOC {
+    width: 250px; /* Establece un ancho fijo para la barra lateral */
+    position: fixed; /* Fija el índice en la página */
+    top: 50px; /* Ajusta el desplazamiento desde la parte superior */
+    left: 0; /* Lo coloca a la izquierda */
+    padding: 20px;
+    background-color: #f8f9fa; /* Color de fondo */
+    border-right: 2px solid #ddd; /* Límite derecho de la barra */
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+    font-family: 'Arial', sans-serif; /* Fuente limpia y legible */
+    overflow-y: auto; /* Permite que el índice se desplace si es necesario */
+    height: 100vh; /* Asegura que el índice ocupe toda la altura de la ventana */
   }
   
-  a:hover {
-    text-decoration: underline;
-    color: #0056b3;
-  }  
+  #TOC a {
+    display: block; /* Hace que cada enlace ocupe una línea completa */
+    padding: 5px 10px;
+    font-size: 16px; /* Tamaño de fuente del índice */
+    color: #007bff; /* Color de los enlaces */
+    text-decoration: none; /* Sin subrayado */
+  }
   
+  #TOC a:hover {
+    background-color: #e9ecef; /* Resalta los enlaces cuando se pasa el ratón por encima */
+    color: #0056b3; /* Cambia el color al pasar el ratón */
+  }
   
+  #TOC li {
+    list-style-type: none; /* Elimina los puntos de la lista */
+    margin-bottom: 10px; /* Separación entre elementos del índice */
+  }

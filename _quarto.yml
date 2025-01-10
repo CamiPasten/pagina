@@ -26,10 +26,8 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: css/styles.css
-    toc: true
-    toc-location: right
-    toc-depth: 2
-    number-sections: true
+    theme: flatly  
+    toc: false  
+    number-sections: false
+    toc-location: left  
 

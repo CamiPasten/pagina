@@ -1,7 +1,61 @@
-### **1. ¿Qué es el Comportamiento Organizacional (CO)?**
+---
+title: "Comportamiento Organizacional"
+format:
+  html:
+    theme: flatly
+    toc: true        # Activar la tabla de contenidos
+    toc-location: left # Ubica el índice a la izquierda
+    toc-title: "" 
+    number-sections: true
+    css: "styles.css" # Usar archivo de estilos CSS personalizado
+---
+
+# Índice
+
+- [1. ¿Qué es el Comportamiento Organizacional?](#que-es-el-comportamiento-organizacional)
+- [2. Importancia de las Habilidades Interpersonales](#importancia-de-las-habilidades-interpersonales)
+- [3. Rol del Gerente y Actividades Gerenciales](#rol-del-gerente-y-actividades-gerenciales)
+- [4. Enfoque Sistemático y Evidencia en el CO](#enfoque-sistematico-y-evidencia-en-el-co)
+- [5. Disciplinas que Contribuyen al CO](#disciplinas-que-contribuyen-al-co)
+- [6. Principios Fundamentales del CO](#principios-fundamentales-del-co)
+- [7. Desafíos y Oportunidades del CO](#desafios-y-oportunidades-del-co)
+
+## 1. ¿Qué es el Comportamiento Organizacional?
+<a id="que-es-el-comportamiento-organizacional"></a>
+Contenido de la sección que describirá qué es el comportamiento organizacional.
+
+## 2. Importancia de las Habilidades Interpersonales
+<a id="importancia-de-las-habilidades-interpersonales"></a>
+Contenido de la sección sobre la importancia de las habilidades interpersonales.
+
+## 3. Rol del Gerente y Actividades Gerenciales
+<a id="rol-del-gerente-y-actividades-gerenciales"></a>
+Contenido sobre el rol y actividades de los gerentes.
+
+## 4. Enfoque Sistemático y Evidencia en el CO
+<a id="enfoque-sistematico-y-evidencia-en-el-co"></a>
+Contenido sobre el enfoque sistemático en el estudio del CO.
+
+## 5. Disciplinas que Contribuyen al CO
+<a id="disciplinas-que-contribuyen-al-co"></a>
+Contenido sobre las disciplinas que alimentan el campo del CO.
+
+## 6. Principios Fundamentales del CO
+<a id="principios-fundamentales-del-co"></a>
+Contenido que habla sobre los principios fundamentales del CO.
+
+## 7. Desafíos y Oportunidades del CO
+<a id="desafios-y-oportunidades-del-co"></a>
+Contenido sobre los desafíos y oportunidades que enfrenta el CO.
+
+
+**1. ¿Qué es el Comportamiento Organizacional (CO)?**
 El comportamiento organizacional (CO) es una disciplina que estudia el efecto que los individuos, los grupos y las estructuras tienen sobre el comportamiento dentro de las organizaciones, con el objetivo de aplicar este conocimiento para mejorar su eficacia. Este campo aborda cómo las personas interactúan entre sí y con su entorno laboral, explorando factores clave como la motivación, la comunicación, la cultura y el liderazgo.
 
 ## Conceptos clave y definiciones
+
+### **1. Comportamiento Organizacional (CO)**:
+El CO examina cómo los individuos, los grupos y las estructuras influyen en el comportamiento dentro de las organizaciones. Su propósito es aplicar este conocimiento para mejorar la efectividad organizacional. Los temas centrales incluyen:
 
 - **Motivación**: Factores que impulsan a los empleados a realizar su trabajo.
 - **Liderazgo y poder**: Cómo se influyen los individuos y los equipos.
@@ -11,8 +65,6 @@ El comportamiento organizacional (CO) es una disciplina que estudia el efecto qu
 - **Conflictos y negociación**: Manejo de desacuerdos y resolución de disputas.
 
 El CO busca entender y prever cómo el comportamiento humano afecta la productividad, satisfacción laboral, rotación de empleados y la sostenibilidad organizacional.
-
----
 
 ### **2. Importancia de las Habilidades Interpersonales**
 Históricamente, los programas de administración se enfocaban en el desarrollo de habilidades técnicas y cuantitativas, ya que se pensaba que estas eran las que mejor preparaban a los futuros gerentes para tomar decisiones acertadas y optimizar los recursos de las empresas. Sin embargo, con el paso del tiempo, se ha reconocido que las habilidades interpersonales juegan un papel fundamental en el éxito de cualquier gerente. Estas habilidades incluyen la capacidad para trabajar eficazmente con otros, liderar equipos, motivar a los colaboradores, resolver conflictos y comunicarse de manera clara y efectiva.
@@ -27,7 +79,7 @@ Algunos de los beneficios clave de desarrollar habilidades interpersonales son:
 - **Responsabilidad social:** Las habilidades interpersonales también influyen en la responsabilidad social de la empresa. Los gerentes que saben cómo comunicarse de manera efectiva y trabajar con sus equipos son más propensos a tomar decisiones que beneficien no solo a la empresa, sino también a la comunidad y al medio ambiente. Esto se traduce en prácticas éticas, sostenibles y responsables que van más allá de los objetivos económicos. Las empresas que promueven la responsabilidad social integran en su cultura los principios de equidad, justicia social y sostenibilidad, lo que mejora su imagen y reputación ante el público y los consumidores.
 
 Aunque las habilidades técnicas y cuantitativas siguen siendo esenciales, las habilidades interpersonales son ahora reconocidas como una de las claves para el liderazgo efectivo. Los gerentes que logran equilibrar ambas áreas tienen mayores probabilidades de lograr un éxito sostenido, tanto a nivel individual como organizaciona
----
+
 
 ### **3. Rol del Gerente y Actividades Gerenciales**
 Los gerentes logran metas a través de otras personas. Sus principales funciones son:
