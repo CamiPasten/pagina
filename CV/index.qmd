@@ -2,9 +2,11 @@
 title: "Camila Pastén - Perfil Profesional"
 ---
 
-## Perfil Profesional
-
-Estudiante de último año de Ingeniería Comercial con mención en Economía en la Universidad Diego Portales, actualmente cursando un Magíster en Finanzas. Apasionada por los negocios y la economía aplicada, con una sólida formación en estrategia, microeconomía, finanzas y comportamiento organizacional. Cuento con experiencia en análisis de datos, resolución de problemas y trabajo en equipo, complementadas por habilidades técnicas en herramientas analíticas. Busco oportunidades en entornos profesionales desafiantes donde pueda contribuir al desarrollo de soluciones innovadoras.
+## Perfil 
+Estudiante de último año de Ingeniería Comercial con mención en Economía en la Universidad Diego Portales, actualmente cursando un Magíster en Finanzas. 
+Apasionada por los negocios y la economía aplicada, con una sólida formación en estrategia, microeconomía, finanzas y comportamiento organizacional. 
+Cuento con experiencia en análisis de datos, resolución de problemas y trabajo en equipo, complementadas por habilidades técnicas en herramientas analíticas. 
+Busco oportunidades en entornos profesionales desafiantes donde pueda contribuir al desarrollo de soluciones innovadoras.
 
 ## Educación
 

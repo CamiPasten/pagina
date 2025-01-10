@@ -163,3 +163,44 @@ a:hover {
     list-style-type: none; /* Elimina los puntos de la lista */
     margin-bottom: 10px; /* Separación entre elementos del índice */
   }
+
+
+/* Asegura que el contenido de la página CV se inicie correctamente en la parte superior */
+#cv {
+    margin: 0;            /* Elimina cualquier margen */
+    padding: 0;           /* Elimina cualquier relleno */
+    width: 100%;          /* Usa todo el ancho disponible */
+    height: auto;         /* Ajusta la altura al contenido */
+    position: relative;   /* Asegura que la página no tenga elementos flotantes que afecten el diseño */
+}
+
+/* Si hay un encabezado, elimine cualquier espacio arriba */
+#cv h1, #cv h2, #cv h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/* Para evitar que elementos anteriores de la página afecten la distribución */
+body {
+    margin: 0;            /* Elimina márgenes globales */
+    padding: 0;           /* Elimina relleno global */
+    line-height: 1.5;     /* Asegura una buena altura de línea para legibilidad */
+}
+
+/* Reset para otros elementos que puedan causar el espacio en blanco */
+#cv .contenido, #cv .section {
+    margin: 0;            /* Elimina márgenes */
+    padding: 0;           /* Elimina relleno */
+    width: 100%;          /* Asegura que el contenido use todo el ancho disponible */
+    clear: both;          /* Evita interferencias con elementos flotantes */
+}
+#cv * {
+    clear: both;
+    position: relative;  /* Esto garantiza que no haya cambios extraños en el diseño */
+}
+/* Reseteo global para quitar márgenes y rellenos predeterminados */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
