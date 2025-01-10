@@ -24,9 +24,12 @@ website:
           - href: Material/TyE/index.qmd
             text: Tecnología y Empresas
 
-
 format:
   html:
     theme: cosmo
     css: css/styles.css
-    toc: false
+    toc: true
+    toc-location: right
+    toc-depth: 2
+    number-sections: true
+
