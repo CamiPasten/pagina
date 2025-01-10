@@ -1,7 +1,8 @@
 ---
-title: "Capítulo 2: Diversidad"
+title: "Capítulo 2: Diversidad en las organizaciones"
 ---
 
-# Capítulo 2: Diversidad
+# Material del Capítulo 2 del libro Robbins & Judge
 
-La diversidad en los equipos fomenta la innovación y mejora la resolución de problemas. Este capítulo trata sobre...
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)

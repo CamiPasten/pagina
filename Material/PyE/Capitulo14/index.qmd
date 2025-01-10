@@ -1,0 +1,8 @@
+---
+title: "Capítulo 14: Conflicto y Negociación"
+---
+
+# Material del Capítulo 14 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)

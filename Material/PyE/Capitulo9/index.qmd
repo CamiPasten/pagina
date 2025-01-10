@@ -1,0 +1,8 @@
+---
+title: "Capítulo 9: Fundamentos del comportamiento de los grupos"
+---
+
+# Material del Capítulo 9 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)

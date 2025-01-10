@@ -31,4 +31,4 @@ de los temas clave, junto con preguntas, resúmenes y recursos para facilitar tu
 15. [Capítulo 15: Fundamentos de la estructura organizacional](Capitulo15/index.qmd)
 16. [Capítulo 16: Cultura organizacional](Capitulo16/index.qmd)
 17. [Capítulo 17: Políticas y prácticas de recursos humanos](Capitulo17/index.qmd)
-18. [Capítulo 18: FCambio organizacional y manejo del estrés](Capitulo18/index.qmd)
+18. [Capítulo 18: Cambio organizacional y manejo del estrés](Capitulo18/index.qmd)

@@ -1,0 +1,8 @@
+---
+title: "Capítulo 12: Liderazgo"
+---
+
+# Material del Capítulo 12 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)

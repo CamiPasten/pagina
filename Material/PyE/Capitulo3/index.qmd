@@ -1,0 +1,8 @@
+---
+title: "Capítulo 3: Las Actitudes y la Satisfacción Laboral"
+---
+
+# Material del Capítulo 3 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)

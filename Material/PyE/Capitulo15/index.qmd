@@ -1,0 +1,8 @@
+---
+title: "Capítulo 15: Fundamentos de la estructura organizacional"
+---
+
+# Material del Capítulo 15 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)

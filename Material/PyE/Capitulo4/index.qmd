@@ -1,0 +1,8 @@
+---
+title: "Capítulo 4: Las Emociones y Los Estados de Ánimo"
+---
+
+# Material del Capítulo 4 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)

@@ -1,0 +1,8 @@
+---
+title: "Capítulo 17: Políticas y prácticas de recursos humanos"
+---
+
+# Material del Capítulo 17 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)

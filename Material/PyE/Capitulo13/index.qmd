@@ -1,0 +1,8 @@
+---
+title: "Capítulo 13: Poder y política"
+---
+
+# Material del Capítulo 13 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)

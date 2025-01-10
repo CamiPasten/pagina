@@ -1,0 +1,8 @@
+---
+title: "Capítulo 11: Comunicación"
+---
+
+# Material del Capítulo 11 del libro Robbins & Judge
+
+1. [Apuntes](apuntes.qmd)
+2. [Resumen del capítulo](resumen.qmd)
