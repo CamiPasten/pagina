@@ -1,10 +1,30 @@
 ---
 title: "Conta II"
 ---
-# Temáticas
 
-En esta sección encontrarás contenido relacionado con el curso de TyE.
+# Contabilidad II  
 
-1. [Tema 1: Conceptos básicos](tema1.qmd)
-2. [Tema 2: Ejercicios prácticos](tema2.qmd)
+¡Bienvenido a la sección de Contabilidad II! Este espacio está diseñado para ayudarte a comprender y aplicar los conceptos clave de la **contabilidad gerencial y de costos**. Aquí encontrarás una guía detallada que te permitirá dominar temas fundamentales como la determinación de costos, el análisis del punto de equilibrio, la elaboración de presupuestos y la proyección de estados financieros.  
+
+> **Nota:** Este material es una recopilación de mis apuntes y ejercicios como estudiante y ayudante. Si bien puede no coincidir completamente con tu programa actual, servirá como un excelente complemento para tu aprendizaje.  
+
+---
+
+## ¿Qué encontrarás aquí?  
+
+- **Resúmenes** de los conceptos esenciales de la contabilidad gerencial y de costos.  
+- **Ejercicios prácticos** con soluciones explicadas paso a paso.  
+- **Mapas conceptuales** para visualizar los temas de manera clara y comprensible.  
+- **Cuadros informativos** con definiciones clave y comparaciones útiles.  
+- **Casos prácticos** para aplicar los conocimientos en situaciones reales.  
+
+---
+
+## **Estructura de la Sección**  
+
+1. [Introducción a la Contabilidad Gerencial y de Costos](tema1/index.qmd)
+2. [ Determinación del Costo: Enfoques de Costeo](tema2/index.qmd)
+3. [Punto de Equilibrio y Toma de Decisiones](tema3/index.qmd)
+4. [Presupuestos y Proyecciones Financiera](tema4/index.qmd)
+5. [Aplicaciones Prácticas y Ejercicios Variados](tema5/index.qmd)
 

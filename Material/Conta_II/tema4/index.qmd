@@ -1,0 +1,4 @@
+- **Presupuesto de compras:** Organización y control de adquisiciones.  
+- **Presupuesto de producción y ventas:** Proyección de necesidades según la demanda estimada.  
+- **Presupuesto de caja:** Planificación del flujo de efectivo.  
+- **Estados financieros proyectados:** Elaboración y uso para la toma de decisiones estratégicas.  

@@ -1,0 +1,172 @@
+---
+title: "Ejercicios"
+---
+
+## Ejercicio Nº1
+
+La empresa **Lapizin S.A.**, quienes fabrican sus lápices de tinta para luego comercializarlos, presenta la siguiente información sobre su producción en el primer semestre del 2022:
+
+### Costos Incurridos
+
+| Concepto                           | Valor                |
+|------------------------------------|----------------------|
+| Compra de Tinta para Lápices      | $14                 |
+| Compra de Soporte para Lápices    | $53                 |
+| Sueldo Personal de Fábrica (Mensual Fijo) | $40.000         |
+| Comisión por Ventas               | 2% sobre precio venta|
+| Energía de Fábrica (Bimestral Fijo) | $100.000          |
+| Sueldo Supervisor de Fábrica (Mensual Fijo) | $55.000    |
+| Arriendo de Local Comercial       | $100.000            |
+| Otros CIF                         | $50.000             |
+| Publicidad del Producto           | $40.000             |
+| Arriendo de Fábrica (Bimestral Fijo) | $50.000          |
+| Seguro de Robo Local Comercial    | $25.000             |
+| Otros Gastos de Administración y Ventas | $10.000       |
+
+### Información Adicional
+
+- Durante el periodo se fabricaron **800 unidades**.
+- La empresa no presentó inventarios finales del 2021.
+- El precio de venta en el mercado asciende a **$1.900 c/u**.
+- Se sabe que para cada unidad producida se requiere de **1 soporte y 1 tinta**.
+- Se vendió solo un **70%** de la producción del periodo.
+
+#### Se pide:
+
+a) Calcular Costos Unitarios y de Producción.  
+b) Presentar Estado de Resultados.  
+c) Suponiendo que la empresa vendió las 800 unidades fabricadas, presentar estado de resultados.  
+
+---
+
+## Ejercicio Nº2
+
+La empresa **BoJack Ltda.**, quienes imprimen y venden libros de texto para escolares, presenta la siguiente información sobre su producción en el primer trimestre del 2022:
+
+### Costos Incurridos
+
+| Concepto                           | Valor                |
+|------------------------------------|----------------------|
+| Compra de Resmas de Hojas         | $400.000            |
+| Mano de Obra Mensual              | $60.000             |
+| Depreciación Impresora (Lineal)   | $5.000 por mes       |
+| Energía eléctrica (40% Fábrica, 60% Local Venta Variable) | $50.000 |
+| Sueldo Supervisor Fábrica (Fijo mensual) | $20.000      |
+| Compra de Tapas para Libros       | $120.000            |
+| Comisión por Ventas               | 5% sobre precio venta|
+| Seguro incendio Local Comercial (Mensual Fijo) | $20.000|
+| Otros CIF                         | $30.000             |
+| Remuneración de Vendedores (Mensual Fijo) | $15.000     |
+| Arriendo Local Comercial          | $60.000             |
+| Servicio de Telefonía             | $30.000             |
+| Energía de la Fábrica             | $45.000             |
+
+### Información Adicional
+
+- Durante el periodo se trabajaron **500 unidades**.
+- Se vendió solo el **50%** de las unidades terminadas a un precio neto de **$8.500 c/u**.
+
+#### Se pide:
+
+a) Calcular Costos Unitarios y de Producción.  
+b) Presentar Estado de Resultados.  
+
+---
+
+## Ejercicio Nº3
+
+La empresa **TechZap S.A.**, que fabrica dispositivos electrónicos portátiles, presenta la siguiente información sobre su producción en el segundo trimestre del 2022:
+
+### Costos Incurridos
+
+| Concepto                           | Valor                |
+|------------------------------------|----------------------|
+| Compra de Materiales Electrónicos | $600.000            |
+| Sueldo del Personal Técnico (Mensual Fijo) | $120.000    |
+| Energía de Fábrica (Bimestral Fijo) | $70.000           |
+| Arriendo de Fábrica               | $80.000             |
+| Otros CIF                         | $40.000             |
+| Transporte de Productos Terminados| $30.000             |
+| Publicidad                        | $50.000             |
+| Comisiones por Venta              | 3% sobre precio de venta |
+
+### Información Adicional
+
+- Durante el trimestre se fabricaron **1.000 dispositivos**.
+- El precio de venta en el mercado es de **$1.500 por dispositivo**.
+- Solo se vendió el **80%** de la producción del trimestre.
+- Para cada unidad producida, se requieren materiales electrónicos por un valor de **$600**.
+
+#### Se pide:
+
+a) Calcular Costos Unitarios y de Producción.  
+b) Presentar Estado de Resultados.  
+c) ¿Qué ocurriría si la empresa lograra vender toda su producción? Realiza un nuevo Estado de Resultados considerando este escenario.  
+
+---
+
+## Ejercicio Nº4
+
+La empresa **GreenHome Ltda.**, dedicada a la producción y venta de muebles ecológicos, presenta la siguiente información correspondiente al tercer trimestre del 2022:
+
+### Costos Incurridos
+
+| Concepto                           | Valor                |
+|------------------------------------|----------------------|
+| Compra de Madera Reciclada        | $500.000            |
+| Compra de Tornillos y Accesorios  | $50.000             |
+| Sueldo del Personal de Fábrica (Mensual Fijo) | $80.000 |
+| Energía de Fábrica                | $45.000             |
+| Arriendo del Taller               | $60.000             |
+| Sueldo del Supervisor             | $30.000             |
+| Otros CIF                         | $25.000             |
+| Publicidad                        | $20.000             |
+| Comisiones por Venta              | 4% sobre precio de venta |
+
+### Información Adicional
+
+- Durante el trimestre se fabricaron **600 muebles**.
+- Cada mueble requiere **$800 en materiales y accesorios**.
+- El precio de venta de cada mueble es de **$2.200**.
+- Se vendió el **75%** de los muebles fabricados.
+
+#### Se pide:
+
+a) Calcular los Costos Unitarios y de Producción.  
+b) Presentar el Estado de Resultados del trimestre.  
+c) Determinar cuántas unidades adicionales deberían venderse para alcanzar una utilidad de **$300.000**.  
+
+---
+
+## Ejercicio Nº5
+
+La empresa **EcoBottle S.A.**, dedicada a la producción de botellas reutilizables, presenta la siguiente información de costos y ventas para el primer trimestre del 2023:
+
+### Costos Incurridos
+
+| Concepto                           | Valor                |
+|------------------------------------|----------------------|
+| Compra de Material Plástico       | $200.000            |
+| Compra de Tapas                   | $80.000             |
+| Sueldo del Personal de Fábrica (Mensual Fijo) | $90.000 |
+| Sueldo del Supervisor de Producción | $30.000           |
+| Energía de Fábrica (Variable)     | $40.000             |
+| Otros CIF                         | $25.000             |
+| Arriendo de Oficina Comercial     | $50.000             |
+| Publicidad                        | $35.000             |
+| Comisiones por Ventas             | 5% sobre precio de venta |
+
+### Información Adicional
+
+- Durante el trimestre se produjeron **1.200 unidades**.
+- Cada unidad requiere **$100 en material plástico y $50 en tapas**.
+- El precio de venta es de **$1.800 por botella**.
+- Solo se vendió el **60%** de la producción.
+
+#### Se pide:
+
+a) Calcular los Costos Unitarios y Totales de Producción.  
+b) Presentar el Estado de Resultados considerando las ventas realizadas.  
+c) Determinar el precio de venta que debería establecerse para que la empresa alcance un margen de utilidad del 20% sobre el costo unitario, suponiendo que vende toda su producción.  
+
+---

@@ -1,0 +1,89 @@
+---
+title: "Tema 1: Conceptos básicos y Primeros Ejercicios"
+---
+
+**Contabilidad Gerencial y de Costos:**
+
+1. **Definición:**
+   - **Contabilidad Gerencial:** Es una rama de la contabilidad que se enfoca en proporcionar información útil para la toma de decisiones dentro de una empresa. Se orienta hacia la planificación, control y evaluación de los recursos, con el fin de mejorar la eficiencia y efectividad en los procesos de gestión.
+   - **Contabilidad de Costos:** Es una subdisciplina de la contabilidad gerencial que se ocupa de la identificación, medición, análisis, interpretación y control de los costos asociados a la producción de bienes y servicios en una empresa. Ayuda a conocer el costo de producción y la rentabilidad de las operaciones.
+
+2. **Objetivos de la contabilidad gerencial y de costos:**
+   - **Contabilidad Gerencial:**
+     - Proveer información clave para la toma de decisiones.
+     - Ayudar en la planificación y presupuesto de actividades empresariales.
+     - Evaluar la efectividad y eficiencia de los procesos de negocio.
+     - Proporcionar información para la optimización de recursos y maximización de utilidades.
+   
+   - **Contabilidad de Costos:**
+     - Determinar el costo de producción de bienes o servicios.
+     - Controlar y reducir costos innecesarios.
+     - Identificar los costos fijos y variables que afectan la rentabilidad.
+     - Facilitar la fijación de precios de productos o servicios.
+     - Analizar la rentabilidad de productos y líneas de negocio.
+
+---
+
+**Diferencias clave entre Costo, Gasto y Pérdida:**
+
+1. **Costo:**  
+   - Se refiere a los recursos que una empresa invierte en la producción de bienes o servicios. Son los gastos que directamente participan en la fabricación de productos, como materias primas, mano de obra y costos indirectos de fabricación.
+   - **Ejemplo:** El costo de los materiales que se usan para fabricar una camiseta.
+
+2. **Gasto:**  
+   - Son los recursos que se consumen para la operación del negocio, pero que no están directamente ligados a la producción de bienes o servicios. Son necesarios para que la empresa opere, pero no contribuyen directamente a la creación de productos o servicios.
+   - **Ejemplo:** El salario del personal administrativo, la renta de las oficinas.
+
+3. **Pérdida:**  
+   - Se refiere a una disminución en el patrimonio de la empresa que no está relacionada con la operación normal del negocio. Generalmente ocurre cuando se venden bienes o activos a un valor menor que su costo o cuando no se cumplen los objetivos financieros.
+   - **Ejemplo:** La venta de un vehículo de la empresa por menos de su valor contable, lo que genera una pérdida.
+
+---
+
+**Costos según el tipo de empresa:**
+
+1. **Empresas Comercializadoras:**
+   - Son aquellas que compran productos para revenderlos sin alterar su forma o características. El costo principal en este tipo de empresas es el **costo de compra** de los bienes que luego serán vendidos.
+   - **Ejemplo:** Un supermercado que compra productos a proveedores y los vende a los consumidores.
+
+2. **Empresas Productivas:**
+   - Son aquellas que producen bienes a partir de materias primas. En estas empresas, los costos incluyen materiales, mano de obra y costos indirectos relacionados con la producción de productos.
+   - **Ejemplo:** Una fábrica de muebles que compra madera, la transforma en mesas y sillas y luego las vende.
+
+3. **Empresas de Servicios:**
+   - Son aquellas que ofrecen servicios en lugar de bienes. Los costos en este tipo de empresas suelen estar relacionados con la mano de obra y otros costos operativos como alquileres, equipos y materiales indirectos.
+   - **Ejemplo:** Una empresa de consultoría, donde los costos principales son los salarios de los consultores y los recursos necesarios para realizar el servicio.
+
+---
+
+**Elementos del Costo:**
+
+1. **Materiales Directos (MPD):**
+   - Son los materiales que se usan directamente en la fabricación de un producto. Estos materiales pueden ser identificados de manera específica en el producto final.
+   - **Ejemplo:** En la fabricación de una silla, la madera utilizada sería un material directo.
+
+2. **Mano de Obra Directa (MOD):**
+   - Es el costo asociado al trabajo directamente realizado en la fabricación del producto. Incluye el salario de los operarios o empleados que están trabajando directamente en la producción.
+   - **Ejemplo:** El salario de los trabajadores que ensamblan las sillas.
+
+3. **Costos Indirectos de Fabricación(CIF):**
+   - Son los costos que no pueden ser asignados directamente a un producto específico, pero que son necesarios para la producción. Estos costos incluyen mantenimiento de la maquinaria, electricidad, supervisores de planta, etc.
+   - **Ejemplo:** El costo de la electricidad que se usa para alimentar las máquinas en la fábrica, o el salario del jefe de producción.
+
+4. **Gastos Administrativos y de Ventas (GAV):**
+- Son los costos asociados con la administración general de la empresa y con las actividades necesarias para comercializar los productos o servicios. Estos gastos no están relacionados directamente con la producción, pero son necesarios para mantener y hacer funcionar la empresa.
+
+- **Componentes del GAV:**
+      - Gastos Administrativos: Son los costos relacionados con la gestión y operación de la empresa en su conjunto. Incluyen sueldos del personal administrativo, alquiler de oficinas, servicios de tecnología, suministros de oficina, etc.
+           - **Ejemplo:** El salario del director general, la renta de la oficina principal, y los servicios de consultoría.
+      - Gastos de Ventas: Son los costos relacionados con la comercialización y distribución de los productos o servicios. Incluyen publicidad, comisiones de ventas, transporte de los productos, etc.
+           - **Ejemplo:** Los costos de una campaña publicitaria para promover una nueva línea de productos, o el salario de los vendedores.
+
+
+
+Estos cuatro elementos forman la base para determinar el costo total de producción y las operaciones generales de la empresa. La correcta asignación de estos costos es esencial 
+para calcular cuánto cuesta producir cada unidad de un producto, gestionar eficientemente los recursos operativos, y fijar precios adecuados. Además, esta información es 
+fundamental para evaluar la rentabilidad y tomar decisiones estratégicas sobre la optimización de costos y la maximización de utilidades.
+
+1. [Ejercicios de practica](Ejercicios.qmd)
+2. [Pauta de los Ejercicios de practica](Pautas.qmd)
