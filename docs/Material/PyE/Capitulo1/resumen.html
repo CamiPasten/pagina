@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.57">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Comportamiento Organizacional</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../index.html"> 
+<span class="menu-text">Inicio</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../CV"> 
+<span class="menu-text">Curriculum Vitae</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-material" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Material</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-material">    
+        <li>
+    <a class="dropdown-item" href="../../../Material/Conta_II/index.html">
+ <span class="dropdown-text">Contabilidad II</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../Material/Estrategia/index.html">
+ <span class="dropdown-text">Estrategias</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../Material/FAN_II/index.html">
+ <span class="dropdown-text">Fundamentos Administrativos</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../Material/PyE/index.html">
+ <span class="dropdown-text">Persona y Equipo</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../Material/Progra/index.html">
+ <span class="dropdown-text">Programación</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../Material/TyE/index.html">
+ <span class="dropdown-text">Tecnología y Empresas</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#conceptos-clave-y-definiciones" id="toc-conceptos-clave-y-definiciones" class="nav-link active" data-scroll-target="#conceptos-clave-y-definiciones"><span class="header-section-number">1</span> Conceptos clave y definiciones</a>
+  <ul class="collapse">
+  <li><a href="#comportamiento-organizacional-co" id="toc-comportamiento-organizacional-co" class="nav-link" data-scroll-target="#comportamiento-organizacional-co"><span class="header-section-number">1.1</span> <strong>1. Comportamiento Organizacional (CO)</strong>:</a></li>
+  <li><a href="#importancia-de-las-habilidades-interpersonales" id="toc-importancia-de-las-habilidades-interpersonales" class="nav-link" data-scroll-target="#importancia-de-las-habilidades-interpersonales"><span class="header-section-number">1.2</span> <strong>2. Importancia de las Habilidades Interpersonales</strong></a></li>
+  <li><a href="#rol-del-gerente-y-actividades-gerenciales" id="toc-rol-del-gerente-y-actividades-gerenciales" class="nav-link" data-scroll-target="#rol-del-gerente-y-actividades-gerenciales"><span class="header-section-number">1.3</span> <strong>3. Rol del Gerente y Actividades Gerenciales</strong></a></li>
+  <li><a href="#enfoque-sistemático-y-evidencia-en-el-co" id="toc-enfoque-sistemático-y-evidencia-en-el-co" class="nav-link" data-scroll-target="#enfoque-sistemático-y-evidencia-en-el-co"><span class="header-section-number">1.4</span> <strong>4. Enfoque Sistemático y Evidencia en el CO</strong></a></li>
+  <li><a href="#disciplinas-que-contribuyen-al-co" id="toc-disciplinas-que-contribuyen-al-co" class="nav-link" data-scroll-target="#disciplinas-que-contribuyen-al-co"><span class="header-section-number">1.5</span> <strong>5. Disciplinas que Contribuyen al CO</strong></a></li>
+  <li><a href="#principios-fundamentales-del-co" id="toc-principios-fundamentales-del-co" class="nav-link" data-scroll-target="#principios-fundamentales-del-co"><span class="header-section-number">1.6</span> <strong>6. Principios Fundamentales del CO</strong></a></li>
+  <li><a href="#desafíos-y-oportunidades-del-co" id="toc-desafíos-y-oportunidades-del-co" class="nav-link" data-scroll-target="#desafíos-y-oportunidades-del-co"><span class="header-section-number">1.7</span> <strong>7. Desafíos y Oportunidades del CO</strong></a></li>
+  <li><a href="#conclusión" id="toc-conclusión" class="nav-link" data-scroll-target="#conclusión"><span class="header-section-number">1.8</span> <strong>8. Conclusión</strong></a></li>
+  </ul></li>
+  <li><a href="#figura-1-1-roles-gerenciales-según-mintzberg" id="toc-figura-1-1-roles-gerenciales-según-mintzberg" class="nav-link" data-scroll-target="#figura-1-1-roles-gerenciales-según-mintzberg"><span class="header-section-number">2</span> Figura 1-1: Roles gerenciales según Mintzberg</a></li>
+  </ul>
+</nav>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Comportamiento Organizacional</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p><strong>1. ¿Qué es el Comportamiento Organizacional (CO)?</strong> El comportamiento organizacional (CO) es una disciplina que estudia el efecto que los individuos, los grupos y las estructuras tienen sobre el comportamiento dentro de las organizaciones, con el objetivo de aplicar este conocimiento para mejorar su eficacia. Este campo aborda cómo las personas interactúan entre sí y con su entorno laboral, explorando factores clave como la motivación, la comunicación, la cultura y el liderazgo.</p>
+<section id="conceptos-clave-y-definiciones" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="conceptos-clave-y-definiciones"><span class="header-section-number">1</span> Conceptos clave y definiciones</h2>
+<section id="comportamiento-organizacional-co" class="level3" data-number="1.1">
+<h3 data-number="1.1" class="anchored" data-anchor-id="comportamiento-organizacional-co"><span class="header-section-number">1.1</span> <strong>1. Comportamiento Organizacional (CO)</strong>:</h3>
+<p>El CO examina cómo los individuos, los grupos y las estructuras influyen en el comportamiento dentro de las organizaciones. Su propósito es aplicar este conocimiento para mejorar la efectividad organizacional. Los temas centrales incluyen:</p>
+<ul>
+<li><strong>Motivación</strong>: Factores que impulsan a los empleados a realizar su trabajo.</li>
+<li><strong>Liderazgo y poder</strong>: Cómo se influyen los individuos y los equipos.</li>
+<li><strong>Comunicación</strong>: Flujo de información dentro de las organizaciones.</li>
+<li><strong>Actitudes y percepción</strong>: Cómo las personas interpretan su entorno.</li>
+<li><strong>Cambio organizacional</strong>: Adaptación a nuevas condiciones.</li>
+<li><strong>Conflictos y negociación</strong>: Manejo de desacuerdos y resolución de disputas.</li>
+</ul>
+<p>El CO busca entender y prever cómo el comportamiento humano afecta la productividad, satisfacción laboral, rotación de empleados y la sostenibilidad organizacional.</p>
+</section>
+<section id="importancia-de-las-habilidades-interpersonales" class="level3" data-number="1.2">
+<h3 data-number="1.2" class="anchored" data-anchor-id="importancia-de-las-habilidades-interpersonales"><span class="header-section-number">1.2</span> <strong>2. Importancia de las Habilidades Interpersonales</strong></h3>
+<p>Históricamente, los programas de administración se enfocaban en el desarrollo de habilidades técnicas y cuantitativas, ya que se pensaba que estas eran las que mejor preparaban a los futuros gerentes para tomar decisiones acertadas y optimizar los recursos de las empresas. Sin embargo, con el paso del tiempo, se ha reconocido que las habilidades interpersonales juegan un papel fundamental en el éxito de cualquier gerente. Estas habilidades incluyen la capacidad para trabajar eficazmente con otros, liderar equipos, motivar a los colaboradores, resolver conflictos y comunicarse de manera clara y efectiva.</p>
+<p>El desarrollo de habilidades interpersonales permite a los gerentes crear un ambiente de trabajo positivo y productivo, en el que los empleados se sienten valorados y comprendidos. La comunicación efectiva, por ejemplo, no solo mejora la comprensión de los objetivos y expectativas dentro de la organización, sino que también facilita la colaboración entre distintos departamentos y equipos. Además, la capacidad de resolver conflictos es esencial para mantener la armonía dentro de un grupo y evitar que pequeñas disputas afecten el rendimiento general.</p>
+<p>Algunos de los beneficios clave de desarrollar habilidades interpersonales son:</p>
+<ul>
+<li><strong>Mejor desempeño financiero:</strong> Las empresas con buenas relaciones laborales tienden a tener un ambiente de trabajo más armonioso y productivo. Cuando los empleados se sienten valorados y escuchados, su motivación y compromiso con la empresa aumentan. Esto se traduce en un mejor desempeño financiero porque los trabajadores están más enfocados en alcanzar los objetivos de la organización y contribuyen a su éxito. Empresas como Google o Facebook, que fomentan relaciones laborales positivas, han demostrado tener un rendimiento superior en comparación con otras que no priorizan el bienestar de sus empleados.</li>
+<li><strong>Atracción y retención de talento:</strong> Las organizaciones que promueven un ambiente laboral con buenas prácticas interpersonales son más atractivas para los mejores talentos. Los empleados buscan empresas donde se valoren aspectos como el respeto, la comunicación abierta y el desarrollo profesional. Además, cuando los empleados disfrutan de un buen entorno laboral, es más probable que permanezcan en la empresa a largo plazo, lo que reduce los costos de rotación, tales como el tiempo y dinero invertido en reclutamiento y formación de nuevos empleados.</li>
+<li><strong>Reducción de estrés y rotación:</strong> Las relaciones interpersonales positivas dentro del lugar de trabajo tienen un impacto directo en el bienestar emocional de los empleados. Cuando los empleados experimentan un entorno laboral con respeto mutuo, apoyo entre compañeros y líderes, su nivel de estrés disminuye. Esto resulta en una mayor satisfacción laboral y, por ende, en una menor intención de renunciar. Los trabajadores felices y menos estresados son más propensos a mantenerse en la empresa, reduciendo la rotación de personal y los costos asociados con la búsqueda de nuevos empleados.</li>
+<li><strong>Responsabilidad social:</strong> Las habilidades interpersonales también influyen en la responsabilidad social de la empresa. Los gerentes que saben cómo comunicarse de manera efectiva y trabajar con sus equipos son más propensos a tomar decisiones que beneficien no solo a la empresa, sino también a la comunidad y al medio ambiente. Esto se traduce en prácticas éticas, sostenibles y responsables que van más allá de los objetivos económicos. Las empresas que promueven la responsabilidad social integran en su cultura los principios de equidad, justicia social y sostenibilidad, lo que mejora su imagen y reputación ante el público y los consumidores.</li>
+</ul>
+<p>Aunque las habilidades técnicas y cuantitativas siguen siendo esenciales, las habilidades interpersonales son ahora reconocidas como una de las claves para el liderazgo efectivo. Los gerentes que logran equilibrar ambas áreas tienen mayores probabilidades de lograr un éxito sostenido, tanto a nivel individual como organizaciona</p>
+</section>
+<section id="rol-del-gerente-y-actividades-gerenciales" class="level3" data-number="1.3">
+<h3 data-number="1.3" class="anchored" data-anchor-id="rol-del-gerente-y-actividades-gerenciales"><span class="header-section-number">1.3</span> <strong>3. Rol del Gerente y Actividades Gerenciales</strong></h3>
+<p>Los gerentes logran metas a través de otras personas. Sus principales funciones son:</p>
+<section id="funciones-gerenciales-según-fayol" class="level4" data-number="1.3.1">
+<h4 data-number="1.3.1" class="anchored" data-anchor-id="funciones-gerenciales-según-fayol"><span class="header-section-number">1.3.1</span> <strong>Funciones Gerenciales (según Fayol):</strong></h4>
+<ol type="1">
+<li><strong>Planear:</strong> Definir metas, estrategias y planes de acción.</li>
+<li><strong>Organizar:</strong> Determinar tareas, asignar roles y coordinar actividades.</li>
+<li><strong>Dirigir:</strong> Motivar, comunicar y liderar equipos.</li>
+<li><strong>Controlar:</strong> Evaluar el desempeño y corregir desviaciones.</li>
+</ol>
+</section>
+<section id="roles-gerenciales-según-mintzberg" class="level4" data-number="1.3.2">
+<h4 data-number="1.3.2" class="anchored" data-anchor-id="roles-gerenciales-según-mintzberg"><span class="header-section-number">1.3.2</span> <strong>Roles Gerenciales (según Mintzberg):</strong></h4>
+<p>Los gerentes desempeñan 10 roles agrupados en tres categorías: 1. <strong>Interpersonales:</strong> - <strong>Representante:</strong> Funciones ceremoniales y simbólicas. - <strong>Líder:</strong> Motiva y dirige a los empleados. - <strong>Enlace:</strong> Construye redes internas y externas de contacto.</p>
+<ol start="2" type="1">
+<li><strong>Informativos:</strong>
+<ul>
+<li><strong>Vigilante:</strong> Recopila información relevante.</li>
+<li><strong>Divulgador:</strong> Comparte información interna.</li>
+<li><strong>Vocero:</strong> Comunica planes y políticas a partes externas.</li>
+</ul></li>
+<li><strong>Toma de decisiones:</strong>
+<ul>
+<li><strong>Emprendedor:</strong> Identifica oportunidades y lidera iniciativas.</li>
+<li><strong>Manejador de conflictos:</strong> Resuelve problemas inesperados.</li>
+<li><strong>Distribuidor de recursos:</strong> Asigna recursos estratégicamente.</li>
+<li><strong>Negociador:</strong> Representa a la organización en negociaciones clave.</li>
+</ul></li>
+</ol>
+</section>
+<section id="actividades-según-fred-luthans" class="level4" data-number="1.3.3">
+<h4 data-number="1.3.3" class="anchored" data-anchor-id="actividades-según-fred-luthans"><span class="header-section-number">1.3.3</span> <strong>Actividades según Fred Luthans:</strong></h4>
+<ul>
+<li><strong>Administración tradicional:</strong> Planificación, control y toma de decisiones.</li>
+<li><strong>Comunicación:</strong> Flujo de información interna y externa.</li>
+<li><strong>Gestión de recursos humanos:</strong> Motivación, formación y resolución de conflictos.</li>
+<li><strong>Formación de redes:</strong> Interacción social para establecer relaciones estratégicas.</li>
+</ul>
+<p>Un hallazgo clave es que los <strong>gerentes exitosos</strong> (aquellos que ascienden rápidamente) priorizan la formación de redes, mientras que los <strong>eficaces</strong> (con mejores resultados de equipo) destacan en la comunicación.</p>
+<hr>
+</section>
+</section>
+<section id="enfoque-sistemático-y-evidencia-en-el-co" class="level3" data-number="1.4">
+<h3 data-number="1.4" class="anchored" data-anchor-id="enfoque-sistemático-y-evidencia-en-el-co"><span class="header-section-number">1.4</span> <strong>4. Enfoque Sistemático y Evidencia en el CO</strong></h3>
+<ul>
+<li><strong>Estudio sistemático:</strong> Identifica patrones consistentes en el comportamiento humano para hacer predicciones precisas basadas en evidencia científica.</li>
+<li><strong>Administración basada en evidencia (ABE):</strong> Los gerentes deben fundamentar sus decisiones en datos objetivos y no solo en intuiciones.</li>
+<li><strong>Big Data:</strong> Uso de grandes volúmenes de datos para analizar y predecir comportamientos. Se aplica en recursos humanos, marketing, toma de decisiones y gestión de riesgos.</li>
+</ul>
+<p><strong>Limitaciones del Big Data:</strong> - Preocupaciones sobre la privacidad. - Riesgos de decisiones basadas exclusivamente en datos sin considerar el contexto humano.</p>
+<hr>
+</section>
+<section id="disciplinas-que-contribuyen-al-co" class="level3" data-number="1.5">
+<h3 data-number="1.5" class="anchored" data-anchor-id="disciplinas-que-contribuyen-al-co"><span class="header-section-number">1.5</span> <strong>5. Disciplinas que Contribuyen al CO</strong></h3>
+<p>El CO se nutre de múltiples disciplinas que explican distintos niveles de análisis (individuo, grupo y organización):</p>
+<ol type="1">
+<li><strong>Psicología:</strong> Se enfoca en el individuo. Aporta conocimientos sobre motivación, aprendizaje, personalidad, percepción, liderazgo y estrés.</li>
+<li><strong>Psicología social:</strong> Estudia cómo los individuos influyen entre sí. Se especializa en comunicación, cambio de actitudes y manejo de conflictos.</li>
+<li><strong>Sociología:</strong> Analiza el comportamiento grupal y la estructura organizacional, incluyendo temas como cultura y poder.</li>
+<li><strong>Antropología:</strong> Explora culturas y valores organizacionales, lo que ayuda a entender diferencias entre naciones y organizaciones.</li>
+</ol>
+<hr>
+</section>
+<section id="principios-fundamentales-del-co" class="level3" data-number="1.6">
+<h3 data-number="1.6" class="anchored" data-anchor-id="principios-fundamentales-del-co"><span class="header-section-number">1.6</span> <strong>6. Principios Fundamentales del CO</strong></h3>
+<p>El CO reconoce que los seres humanos son complejos y no existen reglas absolutas. Factores como personalidad, cultura y contexto influyen en el comportamiento, lo que hace que las generalizaciones sean limitadas.</p>
+<p><strong>Ejemplo:</strong> El dinero no motiva a todas las personas de la misma manera, y el mismo individuo puede actuar de forma diferente según las circunstancias.</p>
+<hr>
+</section>
+<section id="desafíos-y-oportunidades-del-co" class="level3" data-number="1.7">
+<h3 data-number="1.7" class="anchored" data-anchor-id="desafíos-y-oportunidades-del-co"><span class="header-section-number">1.7</span> <strong>7. Desafíos y Oportunidades del CO</strong></h3>
+<section id="desafíos" class="level4" data-number="1.7.1">
+<h4 data-number="1.7.1" class="anchored" data-anchor-id="desafíos"><span class="header-section-number">1.7.1</span> <strong>Desafíos:</strong></h4>
+<ul>
+<li><strong>Globalización:</strong> Las organizaciones deben adaptarse a culturas diversas y operar en mercados globales.</li>
+<li><strong>Diversidad:</strong> Incrementa la complejidad de liderar equipos con diferentes antecedentes.</li>
+<li><strong>Avances tecnológicos:</strong> Cambian la forma en que se trabaja y se gestiona el talento.</li>
+<li><strong>Ética:</strong> Las empresas enfrentan presión para actuar de manera responsable.</li>
+</ul>
+</section>
+<section id="oportunidades" class="level4" data-number="1.7.2">
+<h4 data-number="1.7.2" class="anchored" data-anchor-id="oportunidades"><span class="header-section-number">1.7.2</span> <strong>Oportunidades:</strong></h4>
+<ul>
+<li><strong>Promover innovación:</strong> El entendimiento del comportamiento humano facilita adaptaciones al cambio.</li>
+<li><strong>Responsabilidad social corporativa (RSC):</strong> Permite integrar objetivos sociales y empresariales.</li>
+<li><strong>Estrategias de liderazgo efectivas:</strong> Mejora la cohesión y el desempeño en equipos.</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="conclusión" class="level3" data-number="1.8">
+<h3 data-number="1.8" class="anchored" data-anchor-id="conclusión"><span class="header-section-number">1.8</span> <strong>8. Conclusión</strong></h3>
+<p>El comportamiento organizacional combina elementos teóricos y prácticos para entender el impacto del comportamiento humano en el lugar de trabajo. Aplicar sus principios puede: - Incrementar la efectividad organizacional. - Fomentar un entorno laboral positivo. - Ayudar a los gerentes a navegar las complejidades de las organizaciones modernas.</p>
+</section>
+</section>
+<section id="figura-1-1-roles-gerenciales-según-mintzberg" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="figura-1-1-roles-gerenciales-según-mintzberg"><span class="header-section-number">2</span> Figura 1-1: Roles gerenciales según Mintzberg</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 18%">
+<col style="width: 81%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Roles</strong></th>
+<th><strong>Descripción</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Interpersonales</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Representante</td>
+<td>Figura simbólica: se requiere que ejecute cierto número de tareas rutinarias de índole legal o social.</td>
+</tr>
+<tr class="odd">
+<td>Líder</td>
+<td>Es responsable por la motivación y dirección de los empleados.</td>
+</tr>
+<tr class="even">
+<td>Enlace</td>
+<td>Mantiene una red de contactos externos que lo apoyan y le brindan información.</td>
+</tr>
+<tr class="odd">
+<td><strong>Informativos</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Vigilante</td>
+<td>Recibe una amplia variedad de información; sirve como centro neurálgico de la información interna y externa de la organización.</td>
+</tr>
+<tr class="odd">
+<td>Divulgador</td>
+<td>Transmite la información recibida de los asociados externos, u otros empleados, a los miembros de la organización.</td>
+</tr>
+<tr class="even">
+<td>Vocero</td>
+<td>Transmite información a los asociados externos acerca de los planes, políticas, acciones y resultados de la organización; funge como experto en la industria.</td>
+</tr>
+<tr class="odd">
+<td><strong>De toma de decisiones</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Emprendedor</td>
+<td>Busca oportunidades en la organización y en su entorno, e inicia proyectos para generar un cambio.</td>
+</tr>
+<tr class="odd">
+<td>Encargado de manejar conflictos</td>
+<td>Es responsable de efectuar acciones correctivas cuando la organización enfrenta problemas significativos e inesperados.</td>
+</tr>
+<tr class="even">
+<td>Distribuidor de recursos</td>
+<td>Toma o aprueba decisiones organizacionales importantes.</td>
+</tr>
+<tr class="odd">
+<td>Negociador</td>
+<td>Es responsable de representar a la organización en negociaciones de importancia.</td>
+</tr>
+</tbody>
+</table>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
