@@ -10,10 +10,10 @@ La empresa **Lapizin S.A.**, quienes fabrican sus lápices de tinta para luego c
 
 | Concepto                           | Valor                |
 |------------------------------------|----------------------|
-| Compra de Tinta para Lápices      | $14                 |
-| Compra de Soporte para Lápices    | $53                 |
-| Sueldo Personal de Fábrica (Mensual Fijo) | $40.000         |
-| Comisión por Ventas               | 2% sobre precio venta|
+| Compra de Tinta para Lápices      | $10                 |
+| Compra de Soporte para Lápices    | $50               |
+| Sueldo Personal de Fábrica (Mensual Fijo) | $50.000         |
+| Comisión por Ventas               | 3% sobre precio venta|
 | Energía de Fábrica (Bimestral Fijo) | $100.000          |
 | Sueldo Supervisor de Fábrica (Mensual Fijo) | $55.000    |
 | Arriendo de Local Comercial       | $100.000            |
