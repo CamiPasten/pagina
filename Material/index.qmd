@@ -1,12 +1,49 @@
 # Material
 
-Bienvenido a la sección de Material. Aquí encontrarás los recursos organizados por temas.
+¡Bienvenido a la sección de Material! Este espacio está diseñado para ayudarte en tu aprendizaje. Encontrarás recursos útiles como **resúmenes**, **apuntes**, **ejercicios**, **mapas conceptuales** y **cuadros informativos**.  
 
-## Secciones
+> **Nota:** Este material fue creado durante mis años como estudiante y ayudante. Puede contener errores o no estar completamente actualizado, así que úsalo como apoyo complementario.  
 
-- [Contabilidad II](Conta_II/index.qmd)
-- [Estrategias](Estrategia/index.qmd)
-- [Fundamentos Administrativos](FAN_II/index.qmd)
-- [Persona y Equipo](PyE/index.qmd)
-- [Programación](Progra/index.qmd)
-- [Tecnología y Empresas](TyE/index.qmd)
+## Secciones Disponibles
+
+Descubre los recursos organizados por tema:
+
+### 📊 [Contabilidad II](Conta_II/index.qmd)
+- Resúmenes de principios contables.  
+- Ejercicios prácticos con soluciones.  
+- Mapas conceptuales sobre balances y estados financieros.  
+
+### 🧠 [Estrategias](Estrategia/index.qmd)
+- Análisis de casos reales.  
+- Resúmenes de modelos estratégicos.  
+- Ejercicios para aplicar teoría a la práctica.  
+
+### 📋 [Fundamentos Administrativos](FAN_II/index.qmd)
+- Conceptos clave de gestión empresarial.  
+- Mapas mentales de teorías administrativas.  
+- Ejemplos aplicados al mundo actual.  
+
+### 🤝 [Persona y Equipo](PyE/index.qmd)
+- Dinámicas grupales y ejercicios de liderazgo.  
+- Resúmenes de comunicación y trabajo en equipo.  
+- Cuadros comparativos de roles en equipos.  
+
+### 💻 [Programación](Progra/index.qmd)
+- Ejercicios resueltos de lógica y algoritmos.  
+- Resúmenes de conceptos básicos de programación.  
+- Plantillas de código comentado para proyectos simples.  
+
+### 🌐 [Tecnología y Empresas](TyE/index.qmd)
+- Resúmenes sobre la digitalización en negocios.  
+- Ejercicios sobre análisis de datos empresariales.  
+- Mapas conceptuales de innovación tecnológica.  
+
+## ¿Qué encontrarás aquí?
+
+En cada sección hay:  
+- **Resúmenes**: Simplificamos los conceptos más importantes.  
+- **Ejercicios**: Pon a prueba tus conocimientos con problemas prácticos.
+- **Mapas Visuales**: Refuerza el aprendizaje con diagramas y esquemas claros. 
+- **Cuadros Informativos**: Tablas comparativas y resúmenes rápidos para repasar.  
+
+> **Sugerencia:** Si encuentras algún error o tienes sugerencias, ¡házmelo saber! Siempre estoy buscando mejorar.  
