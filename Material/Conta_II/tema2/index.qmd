@@ -1,6 +1,11 @@
 ---
 title: "Tema 2"
 ---
-# Tema 1: Conceptos básicos
-
-Este es el contenido del Tema 1.
+- **Costeo por Absorción:**  
+  - Características y aplicaciones.  
+  - Impacto en los estados financieros.  
+- **Costeo Variable:**  
+  - Análisis de costos fijos y variables.  
+  - Uso en la toma de decisiones.  
+- Comparación y análisis de enfoques:  
+  - Diferencias entre costeo absorbente y costeo variable. 

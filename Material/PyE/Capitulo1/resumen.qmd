@@ -10,12 +10,13 @@ format:
     css: "styles.css" # Usar archivo de estilos CSS personalizado
 ---
 
-**1. ¿Qué es el Comportamiento Organizacional (CO)?**
-El comportamiento organizacional (CO) es una disciplina que estudia el efecto que los individuos, los grupos y las estructuras tienen sobre el comportamiento dentro de las organizaciones, con el objetivo de aplicar este conocimiento para mejorar su eficacia. Este campo aborda cómo las personas interactúan entre sí y con su entorno laboral, explorando factores clave como la motivación, la comunicación, la cultura y el liderazgo.
+# **¿Qué es el Comportamiento Organizacional (CO)?**
+El comportamiento organizacional (CO) es una disciplina que estudia el efecto que los individuos, los grupos y las estructuras tienen sobre el comportamiento dentro de las 
+organizaciones. Su objetivo principal es aplicar este conocimiento para mejorar su eficacia, explorando cómo las personas interactúan entre sí y con su entorno laboral. Este campo 
+aborda factores clave como la motivación, la comunicación, la cultura, el liderazgo, y se centra en situaciones del ámbito laboral como la satisfacción, la productividad, la 
+rotación de personal y el desempeño humano. De esta forma, el CO busca incrementar la efectividad de las organizaciones al comprender y optimizar las dinámicas internas y su 
+impacto en los resultados.
 
-## Conceptos clave y definiciones
-
-### **1. Comportamiento Organizacional (CO)**:
 El CO examina cómo los individuos, los grupos y las estructuras influyen en el comportamiento dentro de las organizaciones. Su propósito es aplicar este conocimiento para mejorar la efectividad organizacional. Los temas centrales incluyen:
 
 - **Motivación**: Factores que impulsan a los empleados a realizar su trabajo.
@@ -25,9 +26,11 @@ El CO examina cómo los individuos, los grupos y las estructuras influyen en el 
 - **Cambio organizacional**: Adaptación a nuevas condiciones.
 - **Conflictos y negociación**: Manejo de desacuerdos y resolución de disputas.
 
-El CO busca entender y prever cómo el comportamiento humano afecta la productividad, satisfacción laboral, rotación de empleados y la sostenibilidad organizacional.
+El objetivo principal del CO es aplicar el conocimiento generado sobre el comportamiento de individuos y grupos, así como la influencia de la estructura organizacional, para 
+incrementar la eficacia organizacional. Esto se logra abordando temas fundamentales como motivación, liderazgo, comunicación interpersonal, procesos de cambio, diseño de puestos de trabajo, entre otros, con un enfoque en mejorar el desempeño y la satisfacción dentro de las organizaciones​
 
-### **2. Importancia de las Habilidades Interpersonales**
+# **Importancia de las Habilidades Interpersonales**
+ 
 Históricamente, los programas de administración se enfocaban en el desarrollo de habilidades técnicas y cuantitativas, ya que se pensaba que estas eran las que mejor preparaban a los futuros gerentes para tomar decisiones acertadas y optimizar los recursos de las empresas. Sin embargo, con el paso del tiempo, se ha reconocido que las habilidades interpersonales juegan un papel fundamental en el éxito de cualquier gerente. Estas habilidades incluyen la capacidad para trabajar eficazmente con otros, liderar equipos, motivar a los colaboradores, resolver conflictos y comunicarse de manera clara y efectiva.
 
 El desarrollo de habilidades interpersonales permite a los gerentes crear un ambiente de trabajo positivo y productivo, en el que los empleados se sienten valorados y comprendidos. La comunicación efectiva, por ejemplo, no solo mejora la comprensión de los objetivos y expectativas dentro de la organización, sino que también facilita la colaboración entre distintos departamentos y equipos. Además, la capacidad de resolver conflictos es esencial para mantener la armonía dentro de un grupo y evitar que pequeñas disputas afecten el rendimiento general.
@@ -42,22 +45,30 @@ Algunos de los beneficios clave de desarrollar habilidades interpersonales son:
 Aunque las habilidades técnicas y cuantitativas siguen siendo esenciales, las habilidades interpersonales son ahora reconocidas como una de las claves para el liderazgo efectivo. Los gerentes que logran equilibrar ambas áreas tienen mayores probabilidades de lograr un éxito sostenido, tanto a nivel individual como organizaciona
 
 
-### **3. Rol del Gerente y Actividades Gerenciales**
+# **Rol del Gerente y Actividades Gerenciales**
 Los gerentes logran metas a través de otras personas. Sus principales funciones son:
 
-#### **Funciones Gerenciales (según Fayol):**
-1. **Planear:** Definir metas, estrategias y planes de acción.
-2. **Organizar:** Determinar tareas, asignar roles y coordinar actividades.
-3. **Dirigir:** Motivar, comunicar y liderar equipos.
-4. **Controlar:** Evaluar el desempeño y corregir desviaciones.
-
-#### **Roles Gerenciales (según Mintzberg):**
+## **Funciones Gerenciales (según Fayol):** (Ver si es fayol)
 
 
-Los gerentes desempeñan 10 roles agrupados en tres categorías:
-1. **Interpersonales:**
-   - **Representante:** Funciones ceremoniales y simbólicas.
-   - **Líder:** Motiva y dirige a los empleados.
+1. **Planear:** La funcion incluye: 
+                        - Definir metas, establecer estrategias y planes de acción.
+2. **Organizar:** La funcion incluye: 
+                        - Determinar tareas, asignar roles y coordinar actividades.
+3. **Dirigir:** La funcion incluye: 
+                        - Motivar, comunicar, resolver conflictos y liderar equipos.
+4. **Controlar:** La funcion principal es: 
+                        - Evaluar el desempeño y corregir desviaciones.
+
+
+
+## **Roles Gerenciales (según Mintzberg):**
+
+Segun Henry Mintzberg los gerentes desempeñan 10 roles agrupados en tres categorías:
+
+1. **Rol Interpersonales:**
+   - **Representante:** Funciones ceremoniales, protocolaria y simbólicas.
+   - **Liderazgo:** Contratar, capacitar, motivar y disciplinar a los empleados.
    - **Enlace:** Construye redes internas y externas de contacto.
    
 2. **Informativos:**
@@ -71,66 +82,8 @@ Los gerentes desempeñan 10 roles agrupados en tres categorías:
    - **Distribuidor de recursos:** Asigna recursos estratégicamente.
    - **Negociador:** Representa a la organización en negociaciones clave.
 
-#### **Actividades según Fred Luthans:**
-- **Administración tradicional:** Planificación, control y toma de decisiones.
-- **Comunicación:** Flujo de información interna y externa.
-- **Gestión de recursos humanos:** Motivación, formación y resolución de conflictos.
-- **Formación de redes:** Interacción social para establecer relaciones estratégicas.
 
-Un hallazgo clave es que los **gerentes exitosos** (aquellos que ascienden rápidamente) priorizan la formación de redes, mientras que los **eficaces** (con mejores resultados de equipo) destacan en la comunicación.
-
----
-
-### **4. Enfoque Sistemático y Evidencia en el CO**
-- **Estudio sistemático:** Identifica patrones consistentes en el comportamiento humano para hacer predicciones precisas basadas en evidencia científica.
-- **Administración basada en evidencia (ABE):** Los gerentes deben fundamentar sus decisiones en datos objetivos y no solo en intuiciones.
-- **Big Data:** Uso de grandes volúmenes de datos para analizar y predecir comportamientos. Se aplica en recursos humanos, marketing, toma de decisiones y gestión de riesgos.
-
-**Limitaciones del Big Data:**
-- Preocupaciones sobre la privacidad.
-- Riesgos de decisiones basadas exclusivamente en datos sin considerar el contexto humano.
-
----
-
-### **5. Disciplinas que Contribuyen al CO**
-El CO se nutre de múltiples disciplinas que explican distintos niveles de análisis (individuo, grupo y organización):
-
-1. **Psicología:** Se enfoca en el individuo. Aporta conocimientos sobre motivación, aprendizaje, personalidad, percepción, liderazgo y estrés.
-2. **Psicología social:** Estudia cómo los individuos influyen entre sí. Se especializa en comunicación, cambio de actitudes y manejo de conflictos.
-3. **Sociología:** Analiza el comportamiento grupal y la estructura organizacional, incluyendo temas como cultura y poder.
-4. **Antropología:** Explora culturas y valores organizacionales, lo que ayuda a entender diferencias entre naciones y organizaciones.
-
----
-
-### **6. Principios Fundamentales del CO**
-El CO reconoce que los seres humanos son complejos y no existen reglas absolutas. Factores como personalidad, cultura y contexto influyen en el comportamiento, lo que hace que las generalizaciones sean limitadas.
-
-**Ejemplo:** El dinero no motiva a todas las personas de la misma manera, y el mismo individuo puede actuar de forma diferente según las circunstancias.
-
----
-
-### **7. Desafíos y Oportunidades del CO**
-#### **Desafíos:**
-- **Globalización:** Las organizaciones deben adaptarse a culturas diversas y operar en mercados globales.
-- **Diversidad:** Incrementa la complejidad de liderar equipos con diferentes antecedentes.
-- **Avances tecnológicos:** Cambian la forma en que se trabaja y se gestiona el talento.
-- **Ética:** Las empresas enfrentan presión para actuar de manera responsable.
-
-#### **Oportunidades:**
-- **Promover innovación:** El entendimiento del comportamiento humano facilita adaptaciones al cambio.
-- **Responsabilidad social corporativa (RSC):** Permite integrar objetivos sociales y empresariales.
-- **Estrategias de liderazgo efectivas:** Mejora la cohesión y el desempeño en equipos.
-
----
-
-### **8. Conclusión**
-El comportamiento organizacional combina elementos teóricos y prácticos para entender el impacto del comportamiento humano en el lugar de trabajo. Aplicar sus principios puede:
-- Incrementar la efectividad organizacional.
-- Fomentar un entorno laboral positivo.
-- Ayudar a los gerentes a navegar las complejidades de las organizaciones modernas.
-
-
-## Figura 1-1: Roles gerenciales según Mintzberg
+### Figura 1-1: Roles gerenciales según Mintzberg (Cuadro del libro)
 
 | **Roles**                         | **Descripción**                                                                                                                                               |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -147,3 +100,108 @@ El comportamiento organizacional combina elementos teóricos y prácticos para e
 | Encargado de manejar conflictos   | Es responsable de efectuar acciones correctivas cuando la organización enfrenta problemas significativos e inesperados.                                         |
 | Distribuidor de recursos          | Toma o aprueba decisiones organizacionales importantes.                                                                                                       |
 | Negociador                        | Es responsable de representar a la organización en negociaciones de importancia.                                                                               |
+
+
+
+## **Habilidades gerenciales:** 
+
+Los investigadores han identificado varias aptitudes que distinguen a los gerentes eficaces de los ineficaces.
+
+- **Aptitudes Tecnicas**: Habilidad para aplicar el conocimiento o la experiencia especializados habilidades generalmente adquiridas por una formación academica.
+- **Habilidades humanas**: Facilidad para trabajar con otras personas, entenderlas y motivarlas, tanto en lo individual como en grupo
+- **Destrezas conceptuales**: Capacidad intelectual para analizar y diagnosticar situaciones complejas.
+
+
+## **Gerencia eficaz versus Gerenica exitosa según Fred Luthans:**
+
+Fred y colaboradores se hicieron la siguiente pregunta: “¿Los gerentes que ascienden más rápido en una organización hacen las mismas actividades y con el mismo empeño, que aquellos que realizan el mejor trabajo?
+
+- **Administración tradicional:** Planificación, control y toma de decisiones.
+- **Comunicación:** Flujo de información interna y externa.
+- **Gestión de recursos humanos:** Motivación, formación y resolución de conflictos.
+- **Formación de redes:** Interacción social para establecer relaciones estratégicas.
+
+
+Resultados
+
+![Descripción de la imagen](images/Figura1-2.png)
+
+- **Gerentes exitosos:** Priorizan la formación de redes para ascender rápidamente.
+- **Gerentes eficaces:** Destacan en comunicación y manejo de recursos humanos, logrando mejores resultados de equipo.
+
+Un hallazgo clave es que los **gerentes exitosos** (aquellos que ascienden rápidamente) priorizan la formación de redes, mientras que los **eficaces** (con mejores resultados de 
+equipo) destacan en la comunicación.
+
+
+
+
+# **Enfoque Sistemático y Administración Basada en Evidencia (ABE)**
+
+## Estudio sistemático
+El *estudio sistematico* identifica patrones consistentes en el comportamiento humano para hacer predicciones precisas basadas en evidencia científica, es decir, busca relaciones de tipo *causa-efecto* y basar las conclusiones obtenidas en evidencia cientifica lo cual permite *predecir* comportamientos y tomar decisiones informadas
+
+Desde el punto del vista del libro se cree que el comportamiento organizacional no es aleatorio, sino que es posible identificar ciertas consistencias en la conducta de los individuos y modificarlas para reflejar las diferencias individuales
+
+## Administración basada en evidencia (ABE)
+La ABE *complementa* el estudio sistematico al fundamentar que las decisiones gerenciales sean tomadas en base a evidecia cientifica y no en *intuiciones*
+
+## Big Data en el CO
+
+### Uso
+Se puede utilizar para *predecir* cualquier evento que se quiera estudiar (Ej: La venta aproximada de un nuevo producto ), calcular posibles *riesgos* que incurren en un momento dado (Ej: Si tengo deudas grandes que pasa en la empresa) y *prevenir* catastrofes (Ej: Quedare sin materiales escenciales en una manufacturera)
+
+### Limitaciones del Big Data
+- Preocupaciones sobre la privacidad.
+- Riesgos de decisiones basadas exclusivamente en datos sin considerar el contexto humano.
+
+
+# Disciplinas que Contribuyen al CO
+
+El CO se nutre de múltiples disciplinas que explican distintos niveles de análisis (individuo, grupo y organización):
+
+1. **Psicología**
+La psicología busca medir, explicar y, en ocasiones, cambiar el comportamiento de los seres humanos y otras especies.
+Se enfoca en el individuo. Aporta conocimientos sobre motivación, aprendizaje, personalidad, percepción, liderazgo y estrés.
+2. **Psicología social** 
+Estudia cómo los individuos influyen entre sí. Se especializa en comunicación, cambio de actitudes y manejo de conflictos.
+3. **Sociología:** Analiza el comportamiento grupal y la estructura organizacional, incluyendo temas como cultura y poder.
+4. **Antropología:** Explora culturas y valores organizacionales, lo que ayuda a entender diferencias entre naciones y organizaciones.
+
+
+
+## Psicología
+La psicología busca medir, explicar y, en ocasiones, cambiar el comportamiento de los seres humanos y otras especies.
+Se enfoca en el individuo. Aporta conocimientos sobre motivación, aprendizaje, personalidad, percepción, liderazgo y estrés.
+## Psicología social
+Estudia cómo los individuos influyen entre sí. Se especializa en comunicación, cambio de actitudes y manejo de conflictos.
+## Sociología
+Analiza el comportamiento grupal y la estructura organizacional, incluyendo temas como cultura y poder.
+## Antropología
+Explora culturas y valores organizacionales, lo que ayuda a entender diferencias entre naciones y organizaciones.
+
+
+## Principios Fundamentales del CO
+El CO reconoce que los seres humanos son complejos y no existen reglas absolutas. Factores como personalidad, cultura y contexto influyen en el comportamiento, lo que hace que las generalizaciones sean limitadas.
+
+**Ejemplo:** El dinero no motiva a todas las personas de la misma manera, y el mismo individuo puede actuar de forma diferente según las circunstancias.
+
+
+
+### ** Desafíos y Oportunidades del CO**
+#### **Desafíos:**
+- **Globalización:** Las organizaciones deben adaptarse a culturas diversas y operar en mercados globales.
+- **Diversidad:** Incrementa la complejidad de liderar equipos con diferentes antecedentes.
+- **Avances tecnológicos:** Cambian la forma en que se trabaja y se gestiona el talento.
+- **Ética:** Las empresas enfrentan presión para actuar de manera responsable.
+
+#### **Oportunidades:**
+- **Promover innovación:** El entendimiento del comportamiento humano facilita adaptaciones al cambio.
+- **Responsabilidad social corporativa (RSC):** Permite integrar objetivos sociales y empresariales.
+- **Estrategias de liderazgo efectivas:** Mejora la cohesión y el desempeño en equipos.
+
+
+### **Conclusión**
+El comportamiento organizacional combina elementos teóricos y prácticos para entender el impacto del comportamiento humano en el lugar de trabajo. Aplicar sus principios puede:
+- Incrementar la efectividad organizacional.
+- Fomentar un entorno laboral positivo.
+- Ayudar a los gerentes a navegar las complejidades de las organizaciones modernas.

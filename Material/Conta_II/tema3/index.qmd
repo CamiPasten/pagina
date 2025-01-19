@@ -1,4 +1,9 @@
 ---
 title: "Tema 3: Conceptos básicos"
 ---
-jsjsjj
+- **Punto de equilibrio:**  
+  - Cálculo de producción y ventas necesarias para cubrir costos.  
+- **Análisis costo-volumen-utilidad:**  
+  - Proyecciones de ventas y producción para maximizar utilidades.  
+- **Determinación de precios de venta:**  
+  - Cálculo de precios basados en costos y márgenes esperados.  

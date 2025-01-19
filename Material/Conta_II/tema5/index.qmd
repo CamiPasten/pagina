@@ -1,3 +1,8 @@
+---
+title: "Ejercicios y Formulario "
+---
+
+
 - Resolución de ejercicios prácticos como:  
   - Determinación de costos por producto.  
   - Análisis de punto de equilibrio.  
