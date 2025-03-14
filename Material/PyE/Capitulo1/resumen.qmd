@@ -83,24 +83,7 @@ Segun Henry Mintzberg los gerentes desempeñan 10 roles agrupados en tres catego
    - **Negociador:** Representa a la organización en negociaciones clave.
 
 
-### Figura 1-1: Roles gerenciales según Mintzberg (Cuadro del libro)
-
-| **Roles**                         | **Descripción**                                                                                                                                               |
-|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Interpersonales**               |                                                                                                                                                               |
-| Representante                     | Figura simbólica: se requiere que ejecute cierto número de tareas rutinarias de índole legal o social.                                                         |
-| Líder                              | Es responsable por la motivación y dirección de los empleados.                                                                                                |
-| Enlace                             | Mantiene una red de contactos externos que lo apoyan y le brindan información.                                                                                 |
-| **Informativos**                  |                                                                                                                                                               |
-| Vigilante                         | Recibe una amplia variedad de información; sirve como centro neurálgico de la información interna y externa de la organización.                                |
-| Divulgador                        | Transmite la información recibida de los asociados externos, u otros empleados, a los miembros de la organización.                                             |
-| Vocero                             | Transmite información a los asociados externos acerca de los planes, políticas, acciones y resultados de la organización; funge como experto en la industria.  |
-| **De toma de decisiones**         |                                                                                                                                                               |
-| Emprendedor                       | Busca oportunidades en la organización y en su entorno, e inicia proyectos para generar un cambio.                                                            |
-| Encargado de manejar conflictos   | Es responsable de efectuar acciones correctivas cuando la organización enfrenta problemas significativos e inesperados.                                         |
-| Distribuidor de recursos          | Toma o aprueba decisiones organizacionales importantes.                                                                                                       |
-| Negociador                        | Es responsable de representar a la organización en negociaciones de importancia.                                                                               |
-
+<img src="/images/Figura1-1.png" alt="Figura 1-1" width="500" />
 
 
 ## **Habilidades gerenciales:** 
@@ -122,9 +105,11 @@ Fred y colaboradores se hicieron la siguiente pregunta: “¿Los gerentes que as
 - **Formación de redes:** Interacción social para establecer relaciones estratégicas.
 
 
-Resultados
+*Resultados del estudio:*
 
-![Descripción de la imagen](images/Figura1-2.png)
+<img src="/images/Figura1-2.png" alt="Figura 1-2" width="500" />
+
+
 
 - **Gerentes exitosos:** Priorizan la formación de redes para ascender rápidamente.
 - **Gerentes eficaces:** Destacan en comunicación y manejo de recursos humanos, logrando mejores resultados de equipo.
@@ -159,32 +144,26 @@ Se puede utilizar para *predecir* cualquier evento que se quiera estudiar (Ej: L
 
 El CO se nutre de múltiples disciplinas que explican distintos niveles de análisis (individuo, grupo y organización):
 
-1. **Psicología**
-La psicología busca medir, explicar y, en ocasiones, cambiar el comportamiento de los seres humanos y otras especies.
+1. **Psicología:** La psicología busca medir, explicar y, en ocasiones, cambiar el comportamiento de los seres humanos y otras especies.
 Se enfoca en el individuo. Aporta conocimientos sobre motivación, aprendizaje, personalidad, percepción, liderazgo y estrés.
-2. **Psicología social** 
-Estudia cómo los individuos influyen entre sí. Se especializa en comunicación, cambio de actitudes y manejo de conflictos.
+2. **Psicología social:** Estudia cómo los individuos influyen entre sí. Se especializa en comunicación, cambio de actitudes y manejo de conflictos.
 3. **Sociología:** Analiza el comportamiento grupal y la estructura organizacional, incluyendo temas como cultura y poder.
 4. **Antropología:** Explora culturas y valores organizacionales, lo que ayuda a entender diferencias entre naciones y organizaciones.
 
 
 
-## Psicología
-La psicología busca medir, explicar y, en ocasiones, cambiar el comportamiento de los seres humanos y otras especies.
-Se enfoca en el individuo. Aporta conocimientos sobre motivación, aprendizaje, personalidad, percepción, liderazgo y estrés.
-## Psicología social
-Estudia cómo los individuos influyen entre sí. Se especializa en comunicación, cambio de actitudes y manejo de conflictos.
-## Sociología
-Analiza el comportamiento grupal y la estructura organizacional, incluyendo temas como cultura y poder.
-## Antropología
-Explora culturas y valores organizacionales, lo que ayuda a entender diferencias entre naciones y organizaciones.
+<img src="/images/Figura1-3.png" alt="Figura 1-3" width="500" />
 
 
-## Principios Fundamentales del CO
-El CO reconoce que los seres humanos son complejos y no existen reglas absolutas. Factores como personalidad, cultura y contexto influyen en el comportamiento, lo que hace que las generalizaciones sean limitadas.
+# Principios Fundamentales del CO
+El Comportamiento Organizacional (CO) reconoce que los seres humanos son complejos y que no existe una fórmula universal que explique su comportamiento en todas las situaciones. Este principio se basa en la variabilidad inherente a las personas, quienes actúan de manera diferente según sus características individuales y el contexto en el que se encuentran.
 
-**Ejemplo:** El dinero no motiva a todas las personas de la misma manera, y el mismo individuo puede actuar de forma diferente según las circunstancias.
+- **Complejidad humana y la falta de absolutos** 
+A diferencia de las ciencias físicas, donde existen leyes universales como la gravedad, en el CO no hay principios aplicables a todas las personas en todas las circunstancias, ya que los individuos tienen diferencias en su personalidad, cultura, experiencias y emociones que influyen en cómo reaccionan ante una misma situación.
 
+## Lección clave del CO:
+
+No hay una **"mejor práctica"** universal. Lo que funciona en una situación o con un individuo puede no ser efectivo en otro contexto o con una persona diferente. Los gerentes y líderes deben adoptar un enfoque flexible y situacional para entender y manejar el comportamiento humano en las organizaciones.
 
 
 ### ** Desafíos y Oportunidades del CO**
