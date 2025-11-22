@@ -14,16 +14,14 @@ about:
 
 ### Resumen Profesional
 
-Soy estudiante de cuarto año de Ingeniería Comercial en la Universidad Diego Portales, apasionada por 
-el análisis de datos, la estrategia empresarial y el comportamiento organizacional.
+Soy Licenciada en Ciencias Económicas y Administrativas y tesista del Magíster en Finanzas en la Universidad Diego Portales. Me muevo entre el mundo académico y el trabajo aplicado con datos para entender problemas económicos y de negocio.
 
-Mi formación académica y experiencia práctica me han permitido desarrollar habilidades sólidas tanto 
-técnicas como interpersonales, destacándome en entornos colaborativos y orientados a resultados.
+Por un lado, llevo varios años como ayudante de docencia y tutora en asignaturas como Programación, Microeconomía, Macroeconomía, Contabilidad y cursos de gestión, diseñando material práctico y acompañando a estudiantes en su formación. Por otro lado, he participado en proyectos aplicados: práctica profesional en CMPC Biopackaging trabajando con información de demanda y colaboración con profesores en un estudio llamado “Crisis demográfica y de natalidad en Chile”.
 
-Actualmente, me desempeño como ayudante de docencia en múltiples asignaturas, Estrategia, Contabilidad 
-y Programación. Durante los últimos tres años, he adquirido experiencia en la creación de materiales 
-educativos, evaluación de estudiantes, y la enseñanza de conceptos clave de manera clara y accesible.
+Mi interés hoy está en roles que combinen análisis de datos, comprensión del negocio y trabajo con personas: consultoría y business intelligence por el lado aplicado, y docencia y proyectos académicos por el lado universitario.
 
 ---- 
 
-Correo: [camila.pasten@mail.udp.cl](mailto:camila.pasten@mail.udp.cl)\
+Si quieres revisar con más detalle mi formación, experiencia y proyectos, puedes ver mi CV aquí: [Ver mi Curriculum Vitae](CV/CV.qmd)
+
+Correo: [camipasten.2002@gmail.com](mailto:camipasten.2002@gmail.com)\
