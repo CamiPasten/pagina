@@ -4,15 +4,13 @@ project:
 resources:
   - images/
 
-
 website:
   navbar:
     left:
       - href: index.qmd
-        text: Inicio
-      - href: CV
-        text: Curriculum Vitae
-
+        text: "Inicio"
+      - href: CV/index.qmd
+        text: "Currículum Vitae"
 
 format:
   html:
