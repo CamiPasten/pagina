@@ -22,6 +22,7 @@ Mi interés hoy está en roles que combinen análisis de datos, comprensión del
 
 ---- 
 
-Si quieres revisar con más detalle mi formación, experiencia y proyectos, puedes ver mi CV aquí: [Ver mi Curriculum Vitae](CV/index.qmd)
+Si quieres revisar con más detalle mi formación, experiencia y proyectos, puedes ver mi CV aquí: 
+[Ver mi Curriculum Vitae](CV/)
 
 Correo: [camipasten.2002@gmail.com](mailto:camipasten.2002@gmail.com)\

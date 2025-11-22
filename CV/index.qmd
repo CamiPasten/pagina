@@ -1,77 +1,158 @@
 ---
-title: "Camila Pastén - Perfil Profesional"
+title: "Camila Pastén Barros - Perfil Profesional"
 ---
 
-## Perfil 
-Estudiante de último año de Ingeniería Comercial con mención en Economía en la Universidad Diego Portales, actualmente cursando un Magíster en Finanzas. 
-Apasionada por los negocios y la economía aplicada, con una sólida formación en estrategia, microeconomía, finanzas y comportamiento organizacional. 
-Cuento con experiencia en análisis de datos, resolución de problemas y trabajo en equipo, complementadas por habilidades técnicas en herramientas analíticas. 
-Busco oportunidades en entornos profesionales desafiantes donde pueda contribuir al desarrollo de soluciones innovadoras.
+## Resumen Profesional
+Licenciada en Ciencias Económicas y Administrativas, pronta titulación de Ingeniería Comercial mención Economía y tesista del Magíster en Finanzas de la Universidad Diego Portales. Mi desarrollo se ha centrado en dos líneas complementarias: por un lado, la docencia universitaria, a través de ayudantías, tutorías y diseño de material en cursos de programación, economía, contabilidad y gestión; y por otro, el trabajo aplicado con datos en proyectos del sector privado y de análisis de políticas públicas, vinculados a temas como demanda, natalidad, desigualdad y sistema financiero. Me motiva especialmente el cruce entre análisis de datos, comprensión del contexto económico y trabajo con personas, tanto en entornos académicos como en espacios de consultoría y business intelligence.
 
-## Educación
 
-### Ingeniería Comercial, Mención Economía
-**Universidad Diego Portales** | Santiago, Chile  
-*2021 – 2025*
+## Experiencia profesional y académica
 
-### Magíster en Finanzas
-**Universidad Diego Portales** | Santiago, Chile  
-*En curso*
+### Práctica Profesional  
+**CMPC S.A. — División Biopackaging, Chile** | 2025  
 
-### Escuela de Verano en Economía
-**Instituto Milenio MIPP – Universidad de Chile** | Santiago, Chile  
-*Enero 2025*  
-Participación con beca completa en un programa de alto nivel dirigido a estudiantes avanzados de economía.
+- Automatización del flujo de proyección de demanda mediante Power Query, SharePoint, Excel y Power BI, consolidando la información histórica y proyectada para el estimación de demanda.  
+- Desarrollo de un flujo integral de datos y conexión directa a repositorios compartidos.  
+- Elaboración del Manual de Usuario técnico y operativo, incorporando diagramas, bitácoras y documentación para la actualización autónoma del sistema.  
+- Diseño de un dashboard interactivo en Power BI para monitorear KPIs comerciales y variaciones de demanda.  
+- Presentación de propuestas de mejora en la gestión de datos y eficiencia operativa del área.  
 
-**Cursos especializados:**
-- *Trade and the Environment* (Evangelina Dardati)
-- *Financial Contracting* (Nicolás Inostroza)
-- *Contests: Teoría y Evidencia Empírica* (Jorge Lemus)
+---
 
-## Experiencia Académica
+### Analista Independiente en Datos Aplicados  
+**Colaboraciones con Rumbo Colectivo — Chile** | 2025  
 
-### Ayudante de Docencia
-**Universidad Diego Portales** | Santiago, Chile  
-*2023 – Actualidad*  
-- Apoyo en la planificación y ejecución de clases en materias de economía.  
-- Orientación a estudiantes en la comprensión de conceptos clave y resolución de dudas.  
-- Desarrollo de materiales educativos y facilitación de sesiones grupales.  
-- Mejora de habilidades en comunicación efectiva y presentación de contenidos.
+- Análisis de datos de la Encuesta de Presupuestos Familiares (EPF).  
+- Construcción de indicadores de gasto de crianza por quintil de ingreso.  
+- Visualización de resultados para informe nacional sobre políticas de infancia y desigualdad. 
+- Análisis y conparaciones internacionales relacionado a politicas de natalidad.
+- Recomendaciones de politicas publicas para Chile en materia de natalidad.
 
-## Participación Estudiantil y Proyectos Universitarios
+---
 
-### CADEMI Emprendimiento
-**Universidad Diego Portales** | Santiago, Chile  
-- Colaboración en proyectos enfocados en la asesoría a emprendedores, brindando orientación directa y apoyo estratégico a pequeñas empresas y startups.  
-- Participación activa en la resolución de problemas empresariales en seis áreas diferentes, incluyendo finanzas, marketing y estrategia organizacional.
+### Colaboradora en Investigación Internacional (Freelance)  
+**Proyecto con investigador independiente — Viena, Austria** | 2025  
 
-### CADEMI Labs
-**Universidad Diego Portales** | Santiago, Chile  
-- Desarrollo de un artículo titulado "¿Te gustaría ser científico de datos? La profesión más sexy del siglo XXI", explorando el perfil profesional, las habilidades clave y la demanda laboral del Data Scientist.  
-- Análisis de insights sobre el mercado laboral de analistas y científicos de datos en Chile, enfatizando habilidades como Python, SQL y Power BI.  
-- Contribución en la divulgación de conocimiento técnico y análisis de datos aplicado a la toma de decisiones estratégicas.
+- Armado y organización de una base de datos internacional con más de 50 fuentes estadísticas de Europa.  
+- Integración de variables económicas, demográficas y sociales para un estudio comparado entre países.  
+- Entrega de bases armonizadas para análisis riguroso en coordinación remota con el investigador.  
 
-## Monitora y Mentora en Programas Académicos
-- **Sustainable Business Camp 2024:** Asistencia en la resolución de desafíos empresariales y apoyo a estudiantes en la creación de presentaciones.  
-- **BootCamp Interescolar 2024:** Orientación y logística para estudiantes de educación media.
+---
 
-## Actividades de Difusión Universitaria
-- Apoyo en el stand de la Universidad Diego Portales durante el evento Emprende tu Mente (ETM), promoviendo el programa de Ingeniería Comercial y asesorando a futuros postulantes.  
-- Colaboración en actividades de difusión universitaria a través del programa PLEIN, facilitando información y consultas a estudiantes interesados.
+### Ayudante de Docencia  
+**Universidad Diego Portales — Santiago, Chile** | 2023 – Actualidad  
 
-## Habilidades y Competencias
+- Diseño y ejecución de clases en más de 10 asignaturas, cubriendo áreas como programación, economía, contabilidad, estrategia y habilidades blandas.  
+- Participación continua en tutorías y programas de integración para apoyo académico.  
+- Asignaturas destacadas por año: 
+  - **2025:** Programación; Tecnología y Empresas; Introducción a las Tecnologías de la Información (Word, Excel, PowerPoint). 
+  - **2024:** Persona y Equipos; Estrategia; Fundamentos de la Administración II; Programación.  
+  - **2023:** Tecnología y Empresas; Contabilidad II. 
+- Tutorías y clases particulares en Microeconomía I, Microeconomía II, Econometría I, Contabilidad I y II, y Macroeconomía I.  
+- Participación en tutorías del programa PIU, incluyendo acompañamiento a estudiante neurodivergente (TEA) con enfoque inclusivo y adaptaciones pedagógicas.
 
-### Habilidades Blandas:
-- Trabajo en equipo y liderazgo en entornos colaborativos.  
-- Resolución creativa de problemas y toma de decisiones informadas.  
-- Adaptabilidad a nuevos desafíos y aprendizaje rápido.
 
-### Habilidades Técnicas:
-- **Análisis de datos y visualización:**
-  - Microsoft Office (Word, Excel): Nivel avanzado.  
-  - Power BI: Creación de reportes interactivos.
+## Formación académica
 
-- **Programación y herramientas tecnológicas:**
-  - RStudio, Python: Nivel básico-intermedio.  
-  - GitHub y Overleaf (LaTeX): Nivel básico-intermedio.
+### Magíster en Finanzas *(en curso, tesista)*  
+**Universidad Diego Portales** — Santiago, Chile | 2024 – Actualidad  
+Programa de continuidad articulado con Ingeniería Comercial. Tesis en desarrollo sobre fusiones bancarias y acceso al crédito en Chile.
+
+### Licenciada en Ciencias Económicas y Administrativas  
+**Universidad Diego Portales** — Santiago, Chile | 2025  
+Grado académico otorgado
+
+### Ingeniería Comercial, mención Economía *(título en trámite)*  
+**Universidad Diego Portales** — Santiago, Chile | 2021 – Actualidad  
+Egreso académico: diciembre 2025.
+
+### Escuela de Verano en Economía  
+**Instituto Milenio MIPP – Universidad de Chile** — Santiago, Chile | Enero 2025  
+Participación con beca completa en programa intensivo para estudiantes avanzados de economía.  
+Cursos destacados: *Financial Contracting* (N. Inostroza) y *Contests: Teoría y Evidencia* (J. Lemus).
+
+
+## Actividades extracurriculares y liderazgo
+
+### Fundadora y Coordinadora General – EcoNex UDP  
+**Universidad Diego Portales** — Santiago, Chile | 2025  
+
+- Creación de una comunidad estudiantil en economía aplicada, datos e innovación.  
+- Organización de talleres, charlas y actividades de vinculación académica con foco práctico para estudiantes de pregrado.  
+
+---
+
+### Mentora académica – BootCamp y Sustainable Business Camp  
+**Universidad Diego Portales** — Santiago, Chile | 2024 y 2025 
+
+- Apoyo metodológico y motivacional a estudiantes secundarios en la resolución de desafíos empresariales.  
+- Acompañamiento en la preparación y presentación de propuestas frente a jurados y equipos evaluadores.  
+
+---
+
+### Representante institucional – Difusión universitaria ETM y PLEIN  
+**Universidad Diego Portales** — Santiago, Chile | 2024  
+
+- Orientación vocacional a futuros estudiantes en ferias y eventos (Emprende Tu Mente, PLEIN).  
+- Promoción del programa de Ingeniería Comercial y respuesta a consultas sobre la experiencia académica.  
+
+---
+
+### Asesora en emprendimientos – CADEMI Emprendimiento  
+**Universidad Diego Portales** — Santiago, Chile | 2023  
+
+- Acompañamiento a una PyME del rubro urbanismo en aspectos de planificación financiera y análisis estratégico.  
+- Apoyo en la reflexión y toma de decisiones comerciales básicas.  
+
+---
+
+### Autora de artículo sobre Data Science – CADEMI Labs  
+**Universidad Diego Portales** — Santiago, Chile | 2023  
+
+- Redacción de un artículo de divulgación técnica sobre el perfil profesional del Data Scientist y las habilidades más demandadas en el mercado chileno.  
+- Análisis de tendencias en el mercado laboral de analistas y científicos de datos.
+
+
+## Dominio técnico
+
+**Lenguajes y programación**  
+- R (nivel intermedio–avanzado)  
+- Python (nivel básico–intermedio)  
+- SQL (nivel básico, en aprendizaje)  
+- Stata (nivel básico, en aprendizaje)  
+- LaTeX (nivel básico, en aprendizaje)
+
+**Análisis y visualización de datos**  
+- Tidyverse para manipulación y análisis de datos en R  
+- Power BI para construcción de reportes y dashboards  
+- Excel nivel avanzado (tablas dinámicas, funciones anidadas, análisis de datos)
+
+**Herramientas de trabajo y documentación**  
+- RStudio, Quarto y Markdown para proyectos reproducibles  
+- GitHub (nivel básico–intermedio) para organización y versionamiento de proyectos  
+- Microsoft Office: Word, Excel, PowerPoint
+
+
+
+## Publicaciones y notas destacadas
+
+- **Estudio “Crisis demográfica y de natalidad en Chile” – Rumbo Colectivo**  
+  Participación como analista en formación en las tres entregas del estudio:  
+  - [Parte I – Lanzamiento del estudio](https://rumbocolectivo.cl/blog/2025/06/18/rumbo-colectivo-lanza-estudio-crisis-demografica-y-de-natalidad-en-chile/)  
+  - [Parte II – Segunda parte del estudio](https://rumbocolectivo.cl/blog/2025/09/23/rumbo-colectivo-lanza-segunda-parte-del-estudio-crisis-demografica-y-de-natalidad-en-chile/)  
+  - [Propuestas de política en natalidad](https://rumbocolectivo.cl/blog/2025/11/10/propuestas-natalidad/)  
+
+- **Reconocimiento institucional UDP por estudio de natalidad**  
+  Nota de la Facultad de Administración y Economía UDP que destaca la participación en el estudio:  
+  [“Javiera González Isleby Figueroa y Camila Pastén contribuyen a innovador estudio sobre la crisis de natalidad en Chile”](https://administracionyeconomia.udp.cl/2025/07/03/javiera-gonzalez-isleby-figueroa-y-camila-pasten-estudiantes-de-la-fae-udp-contribuyen-a-innovador-estudio-sobre-la-crisis-de-natalidad-en-chile/).  
+
+- **EcoNex UDP – Comunidad estudiantil en economía aplicada**  
+  Nota institucional sobre la iniciativa fundada y coordinada por mí:  
+  [“EcoNex UDP: llevando la teoría económica a la práctica”](https://administracionyeconomia.udp.cl/2025/03/17/econex-udp-llevando-la-teoria-economica-a-la-practica/).  
+
+- **Artículo sobre ciencia de datos – CADEMI Labs**  
+  [“¿Te gustaría ser científico de datos? La profesión más sexy del siglo XXI”](https://insightscl.substack.com/p/6336d463-bc64-467c-aa43-12051e4bbcd5), artículo de divulgación sobre el perfil profesional del Data Scientist y las habilidades más demandadas en el mercado chileno.
+
+
+
 

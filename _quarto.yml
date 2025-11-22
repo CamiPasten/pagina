@@ -12,6 +12,7 @@ website:
       - href: CV/index.qmd
         text: "Currículum Vitae"
 
+
 format:
   html:
     theme: flatly  
